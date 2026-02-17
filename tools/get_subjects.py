@@ -1,13 +1,16 @@
 import json
 from glob import glob
 import unicodedata
+from dotenv import load_dotenv 
+import os
 
 """
 Aquí se define la función de get_subjects. Idealmente se guarfaría en una base de datos, sin embargo por hacerlo de manera muy
 simple usamos un diccionario que se carga en memoria y se consulta cuando es necesario
 """
+load_dotenv()
 
-folder_path = "project/data/processed/dipticos_json" #path a los jsons
+folder_path = os.getenv("PATH_DICT_SUBJECTS") #path a los jsons
 data_list = []
 
 #Se leen todos los jsons del path y se guardan en una lista
@@ -25,13 +28,17 @@ def normalize(text: str) -> str:
     return text.lower().strip()
 
 def degree_matches(query, title):
+    print("AQUI", query)
     q = normalize(query).split()
+    print(q)
     t = normalize(title)
 
     return all(word in t for word in q)
 
 def retrieve_subjects(query):
+    
     print("TOOL RETRIEVE_SUBJECT") #log
+    print(query)
     matches = []
 
     for degree in data_list:
@@ -55,6 +62,8 @@ def retrieve_subjects(query):
         lines.append("") 
 
     return "\n".join(lines)
+
+print(retrieve_subjects("turismo"))
 
 
 

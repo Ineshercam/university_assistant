@@ -31,7 +31,7 @@ collection = client.get_collection(COLLECTION_NAME)
 
 # función de la tool
 def retrieve_docs(query: str, k: int = 5) -> List[Dict[str, Any]]:
-    print("\n===== TOOL: retrieve_subjects =====") #log
+    print("\n===== TOOL: retrieve_docs =====") #log
     print("Query:", query)
 
     query_embedding = model.encode([query]).tolist()

@@ -5,7 +5,6 @@ from langchain_core.tools import StructuredTool
 from pydantic import BaseModel, Field
 from tools.retrieval_tool import retrieve_docs
 from tools.get_subjects import retrieve_subjects
-from agent.tools_agent import RetrieveDocsInput, RetrieveSubjectsInput
 
 
 class RetrieveDocsInput(BaseModel):
