@@ -1,0 +1,263 @@
+{
+    "degree_title": "Bellas Artes",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Bellas Artes"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Análisis de la Forma",
+                "ects": "6"
+            },
+            {
+                "subject": "Dibujo Técnico",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Dibujo",
+                "ects": "12"
+            },
+            {
+                "subject": "Fundamentos de Escultura",
+                "ects": "12"
+            },
+            {
+                "subject": "Fundamentos de la Imagen Fotográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Pintura",
+                "ects": "12"
+            },
+            {
+                "subject": "Historia del Arte",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Conformación del Espacio Pictórico",
+                "ects": "6"
+            },
+            {
+                "subject": "Construcción y Representación en el Dibujo",
+                "ects": "6"
+            },
+            {
+                "subject": "Construcción y Representación Escultórica",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos de la Pintura",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos y Procedimientos del Dibujo",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos y Procedimientos de la Escultura",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnologías Digitales",
+                "ects": "6"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Bases Didácticas para la Educación Artística",
+                "ects": "6"
+            },
+            {
+                "subject": "Estrategias Artísticas. Dibujo",
+                "ects": "6"
+            },
+            {
+                "subject": "Estrategias Artísticas. Escultura",
+                "ects": "6"
+            },
+            {
+                "subject": "Estrategias Artísticas. Pintura",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Artística. Dibujo",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Artística. Escultura",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Artística. Pintura",
+                "ects": "6"
+            },
+            {
+                "subject": "Tres Optativas",
+                "ects": "18"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Proyectos",
+                "ects": "18"
+            },
+            {
+                "subject": "Teorías del Arte Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Cinco Optativas",
+                "ects": "30"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE 2º Y",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Grabado en Relieve",
+                "ects": "6"
+            },
+            {
+                "subject": "Modelado del Natural",
+                "ects": "6"
+            },
+            {
+                "subject": "Pequeños Formatos en Escultura: Técnicas de Edición y Seriación",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas Planográficas",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas y Procedimientos",
+                "ects": "6"
+            },
+            {
+                "subject": "Últimas Tendencias Artísticas",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE 2º Y",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Cultura y Sociedad para Artistas",
+                "ects": "6"
+            },
+            {
+                "subject": "Práctica Artística en Contextos Educativos",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Lenguajes y Procesos Fotográficos",
+                "ects": "6"
+            },
+            {
+                "subject": "Media Art. Tecnologías Digitales",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Anatomía Morfológica Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Arte Procesual",
+                "ects": "6"
+            },
+            {
+                "subject": "Composición y Creatividad",
+                "ects": "6"
+            },
+            {
+                "subject": "Concept Art I",
+                "ects": "6"
+            },
+            {
+                "subject": "Concept Art II",
+                "ects": "6"
+            },
+            {
+                "subject": "Creación y Materiales",
+                "ects": "6"
+            },
+            {
+                "subject": "Dibujo Animado: del Carboncillo al Píxel",
+                "ects": "6"
+            },
+            {
+                "subject": "Espacio y Contexto",
+                "ects": "6"
+            },
+            {
+                "subject": "Grabado Calcográfico",
+                "ects": "6"
+            },
+            {
+                "subject": "Pintura Mural",
+                "ects": "6"
+            },
+            {
+                "subject": "Pintura de Paisaje",
+                "ects": "6"
+            },
+            {
+                "subject": "Procedimientos y Técnicas Pictóricas",
+                "ects": "6"
+            },
+            {
+                "subject": "Propuestas Pluridisciplinarias",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas Permeográficas",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnologías Fotosensibles y Digitales Aplicadas a la Estampa",
+                "ects": "6"
+            },
+            {
+                "subject": "Artista, Creatividad y Educación",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Artística. Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Artística. Fotografía",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nComprensión básica y crítica de las funciones,\nla historia, la teoría y el discurso actual del arte\ny sus valores, así como de su incidencia social.\n\nConocimientos sobre la teoría y el contexto ac-\ntual del arte y los artistas a través de sus obras\ny escritos, desarrollando la capacidad para iden-\ntificar y entender los problemas del arte.\n\nVocabulario y códigos inherentes al ámbito ar-\ntístico y a cada técnica artística.\n\nConocimiento de los agentes artísticos, Insti-\ntuciones y organismos culturales españoles e\ninternacionales y su funcionamiento.\n\nConocimiento de materiales y sus procesos utili-\nzados y derivados de la creación y/o producción;\nasí como los métodos artísticos susceptibles\nde ser aplicados a proyectos socioculturales.\n\nConocimiento de instrumentos y métodos de\nexperimentación en arte.\n\nConocimiento de los espacios y medios de ex-\nposición, almacenaje y transporte de las obras\nde arte.\n\nDesarrollo de la metodología de investigación:\nacceso y uso de las fuentes, análisis, interpre-\ntación y la síntesis de los datos, acciones y\nhechos.\n\nHabilidades interpersonales, conciencia de las\ncapacidades y de los recursos propios para el\ndesarrollo del trabajo artístico. Capacidad de\ninnovación, desarrollo y aplicación de las nuevas\ntecnologías.\n\nCapacidad de trabajar autónomamente y en\nequipo, fomentando la iniciativa propia, de au-\ntomotivación, perseverancia y responsabilidad\npara desarrollar el campo artístico propio.\n\nCapacidad de comprender y valorar discursos\nartísticos en relación con la propia obra; así\ncomo de producir y relacionar ideas dentro del\nproceso creativo.\n\nHabilidad para una presentación adecuada de\nlos proyectos artísticos y la transmisión de\nideas artísticas.",
+    "salidas_profesionales": "\nCreación artística: artes plásticas en todas las\ntécnicas y medios creativos.\n\nCreación en el ámbito audiovisual y de las nue-\nvas tecnologías: creación de videojuegos, pro-\nductos de videoarte y audiovisuales, animación,\nmaquetas arquitectónicas virtuales, creación\nobjetual con aplicaciones en otros campos pro-\nfesionales.\n\nCreación en el ámbito de la imagen: dirección\nde arte y de infografía, diseño y publicidad, pro-\nductoras de cine y televisión, parques temáticos\ny de eventos.\n\nDocente: docencia y educación artística en dis-\ntintos niveles de enseñanza, monitorización de\ntalleres artísticos.\n\nInvestigación: actividades orientadas a la obten-\nción de nuevos conocimientos y la resolución de\nproblemas e interrogantes relacionados con las\nprácticas artísticas como formas particulares\nde producción de conocimiento.\n\nExpertización cultural: asesoría y dirección artís-\ntica, creación de identidad corporativa e imagen\nde marca, eventos conmemorativos y festivos\ninstitucionales.\n\nProfesionales del arte: comisariado, dirección y\ngestión de museos, centros artísticos y cultu-\nrales, comisariado de exposiciones, crítica de\narte, galerismo, asesoría para la adquisición de\nobra artística y creación y desarrollo de museos\ny centros culturales.\n\nOtras especialidades: especialistas en arte, ges-\ntión sociocultural en instituciones públicas y\nprivadas."
+}

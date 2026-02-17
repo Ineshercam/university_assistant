@@ -1,0 +1,257 @@
+{
+    "degree_title": "Derecho / Relaciones Laborales y Recursos Humanos",
+    "degree_type": "Doble Grado",
+    "faculties": [
+        "Facultad de Derecho"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Derecho Constitucional: Constitución y Fuentes del Ordenamiento Jurídico. Justicia Constitucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Romano",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Dirección de Empresa",
+                "ects": "3"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Sistema Jurídico",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología General",
+                "ects": "3"
+            },
+            {
+                "subject": "Segundo semestre Derecho Constitucional: Organización Constitucional y Territorial del Estado",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía del Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos del Derecho Moderno y Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Habilidades Básicas del Jurista",
+                "ects": "3"
+            },
+            {
+                "subject": "Introducción a la Contabilidad",
+                "ects": "3"
+            },
+            {
+                "subject": "Introducción al Derecho Social",
+                "ects": "3"
+            },
+            {
+                "subject": "Políticas Sociolaborales contra la Desigualdad y la Discriminación",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología del Trabajo",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Civil: Derecho de la Persona y de las Relaciones Familiares",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Colectivo del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Derechos Fundamentales y su Protección",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Público",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Derecho Penal y Consecuencias Jurídicas del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Economía Aplicada a las Relaciones Laborales",
+                "ects": "3"
+            },
+            {
+                "subject": "Organización y Métodos de Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Civil: Teoría General de la Obligación y del Contrato",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Individual del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección Estratégica de Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura Organizativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Jurídica del Delito",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Primer semestre Derecho Civil: Contratos y Responsabilidad Civil",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Penal: Parte Especial",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Prevención de Riesgos Laborales",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: Parte General",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Seguridad Social: Instituciones y Marco General",
+                "ects": "6"
+            },
+            {
+                "subject": "Jurisdicción Social y Proceso Laboral: Marco General y Procesos",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Administrativo: Fundamentos, Fuentes, Sujetos y Potestades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Derechos Reales",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: el Proceso Civil",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Seguridad Social: Acción Protectora",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección de Recursos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Jurisdicción Social y Proceso Laboral: Recursos y Ejecución",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Administrativo: la Actividad de la Administración",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Economía del Matrimonio y Sucesiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: el Proceso Penal",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Sancionador del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Instituciones de Derecho Tributario",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas de Gestión de Recursos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología Social del Conflicto y de la Negociación",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Administrativo: Medios, Responsabilidad y Control",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Empleo",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Empresa, Valores y Contratación Mercantil",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Tributario Español",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Evaluación, Selección y Formación de Personas",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Investigación Social",
+                "ects": "6"
+            }
+        ],
+        "QUINTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Internacional Privado: Fundamentos y Patrimonio",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Sociedades",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Laboral",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Nuevas Tecnologías y Relaciones Laborales: Aspectos Jurídicos",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Autónomo, Nuevas Formas de Empleo y Emprendimiento",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nFundamentos históricos, filosóficos y constitu-\ncionales del ordenamiento jurídico y su análisis\ncrítico.\n\nSistema de fuentes del Derecho.\n\nDistintas disciplinas que integran nuestro or-\ndenamiento jurídico (Derecho Administrativo,\nCivil, Comunitario, Constitucional, Eclesiástico\ndel Estado, Financiero y Tributario, Internacional\nPúblico, Internacional Privado, Mercantil, Penal,\nProcesal y del Trabajo), y su interrelación.\n\nInterrelaciones entre la economía, el derecho\ny el trabajo.\n\nDinámica de las relaciones laborales, el empleo\ny los recursos humanos desde todas las dimen-\nsiones: jurídica, en especial jurídico-laboral y\nde seguridad social, organizativa, sociológica,\neconómica histórica y psicológica.\n\nOrganización y dirección de empresas y direc-\nción y gestión de recursos humanos.\n\nSociología, sociología del trabajo y técnicas de\ninvestigación social.\n\nFunciones de representación, defensa y ne-\ngociación, y de asesoramiento jurídico, en\nespecial de asesoramiento jurídico laboral, a\nempresas, organismos públicos o privados,\nparticulares, sindicatos, asociaciones empre-\nsariales, etc.\n\nAnálisis y diagnósticos, apoyo y toma de deci-\nsiones en materia de estructura organizativa y\norganización del trabajo, elaboración y diseño\nde estrategias organizativas.\n\nTécnicas y toma de decisiones en materia de\nrecursos humanos.\n\nPsicología del trabajo y psicología social del\nconflicto y la negociación.",
+    "salidas_profesionales": "\nCon la formación complementaria que en su\ncaso puede exigir la normativa en vigor: aboga-\ndo y procurador de los tribunales, agente de la\npropiedad industrial, auditor de cuentas y gestor\nadministrativo.\n\nDesempeño, previa superación del correspon-\ndiente concurso-oposición u oposición: juez,\nfiscal, abogado del estado, secretario judicial;\nletrado de distintos cuerpos de las adminis-\ntraciones públicas; notario, registrador de la\npropiedad y mercantil; diplomático, funcionario\nde la Unión Europea y de otros organismos in-\nternacionales; inspector de trabajo y Seguridad\nSocial, inspector de hacienda; técnico superior\nde las administraciones públicas, secretario\ninterventor de administración local; cuerpo jurí-\ndico militar y otras profesiones vinculadas a la\nfunción pública.\n\nEmpresas nacionales e internacionales del sec-\ntor industrial, comercial, banca, seguros, coo-\nperación al desarrollo, etc.: personal y recursos\nhumanos; asesoría jurídica, asesoría fiscal y\ntributaria; comercio exterior.\n\nGraduado social, agente de empleo y desarrollo\nlocal y docencia e investigación."
+}

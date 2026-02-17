@@ -1,0 +1,307 @@
+{
+    "degree_title": "Ciencias de las Religiones",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Filosofía"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Antropología Cultural de las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía de la Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de la Filosofía y Pensamiento Religioso",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Cristianismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Hinduismo y el Zoroastrismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Judaísmo",
+                "ects": "6"
+            },
+            {
+                "subject": "Literatura y Religión de Asia",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones de Egipto y Próximo Oriente",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones del Mundo Clásico",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Cristianismo Antiguo",
+                "ects": "6"
+            },
+            {
+                "subject": "Cristianismo, Judaísmo e Islam en el Medievo",
+                "ects": "6"
+            },
+            {
+                "subject": "Ética y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Iconografía del Arte Cristiano",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Budismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Confucianismo, Taoísmo y Sintoísmo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Islam",
+                "ects": "6"
+            },
+            {
+                "subject": "Literatura y Religión: desde la Antigüedad a la Edad Media",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa I",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa II",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Arte e Iconografía de las Religiones Asiáticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Arte Islámico",
+                "ects": "6"
+            },
+            {
+                "subject": "Conflictos Políticos Contemporáneos y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Fenomenología de la Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Iglesias Orientales y Reformadas",
+                "ects": "6"
+            },
+            {
+                "subject": "Literatura y Religión: desde el Renacimiento al Presente",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones de las Sociedades Americanas",
+                "ects": "6"
+            },
+            {
+                "subject": "Teologías Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa III",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa IV",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Ciencia y Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Geografía de las Religiones y Movimientos Migratorios",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión de la Diversidad Religiosa",
+                "ects": "6"
+            },
+            {
+                "subject": "Nuevos Movimientos Religiosos",
+                "ects": "6"
+            },
+            {
+                "subject": "Secularización y Ateísmo",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa V",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa VI",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa VII",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa VIII",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Itinerario Profesional Diálogo Interreligioso e Intercultural",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía y Religión en Perspectiva Histórica",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología de las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones y Medios de Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiosidad Popular",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Meditación",
+                "ects": "6"
+            },
+            {
+                "subject": "Tipología del Libro Religioso",
+                "ects": "6"
+            },
+            {
+                "subject": "Turismo y Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas",
+                "ects": "12"
+            },
+            {
+                "subject": "Itinerario Histórico-Filosófico Dios y el Problema del Mal",
+                "ects": "6"
+            },
+            {
+                "subject": "Espacios Rituales y Liturgia en las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía Oriental",
+                "ects": "6"
+            },
+            {
+                "subject": "Género y Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Islam Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Magia y Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Metodología de las Ciencias de las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Música y Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Pensamiento Judío Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Prehistoria de las Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones de África y el Pacífico",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones Mistéricas",
+                "ects": "6"
+            },
+            {
+                "subject": "Itinerario de Lenguas Árabe I",
+                "ects": "6"
+            },
+            {
+                "subject": "Árabe II",
+                "ects": "6"
+            },
+            {
+                "subject": "Árabe III",
+                "ects": "6"
+            },
+            {
+                "subject": "Árabe IV",
+                "ects": "6"
+            },
+            {
+                "subject": "Árabe V",
+                "ects": "6"
+            },
+            {
+                "subject": "Árabe VI",
+                "ects": "6"
+            },
+            {
+                "subject": "Griego I",
+                "ects": "6"
+            },
+            {
+                "subject": "Griego II",
+                "ects": "6"
+            },
+            {
+                "subject": "Griego III",
+                "ects": "6"
+            },
+            {
+                "subject": "Griego IV",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nConocimientos racionales y críticos en el es-\ntudio de las religiones con la finalidad de com-\nprender su historia, su estructura y su función.\n\nConocimiento de los métodos, técnicas e instru-\nmentos de análisis para el estudio de las religio-\nnes y de los fenómenos religiosos.\n\nConocimiento de los conceptos, categorías, teo-\nrías y temas más relevantes de las diferentes\ndisciplinas que se interesan por el estudio de\nlas religiones y de los fenómenos religiosos.\n\nConocimientos acerca de la evolución y desa-\nrrollo de las religiones a lo largo de la historia,\napoyados en bibliografía especializada.\n\nCapacidad para expresar con claridad y cohe-\nrencia, tanto verbalmente como por escrito,\nconocimientos, reflexiones, conclusiones y ra-\nzones últimas de los fenómenos religiosos.\n\nCapacidad para reunir, interpretar y valorar da-\ntos relevantes acerca de fenómenos religiosos\npara construir análisis críticos y reflexivos sobre\nlas diversas religiones y sus manifestaciones\nculturales.\n\nCapacidad para transmitir información, ideas,\nplanteamientos y soluciones referentes al dis-\ncurrir de las religiones a lo largo de la historia y\nen la actualidad.",
+    "salidas_profesionales": "\nDocencia (enseñanza secundaria, bachillerato,\nuniversitaria, etc.).\n\nInvestigación en las áreas específicas de las\nCiencias de las Religiones.\n\nGestión cultural y proyectos multidisciplinares\n(asesoría, ONG, etc.).\n\nGestión literaria (editoriales, librerías, distribui-\ndoras, ferias bibliográficas, bibliotecas, archivos,\nanálisis de textos, edición de revistas, etc.).\n\nGestión en administraciones públicas (ayun-\ntamientos, comunidades autónomas, etc.) y\nproyectos multidisciplinares.\n\nGestión y administración de empresas dedica-\ndas a viajes y turismo religioso."
+}

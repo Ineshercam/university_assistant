@@ -1,0 +1,223 @@
+{
+    "degree_title": "Ciencia de los Datos Aplicada",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Estudios Estadísticos"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Azar y Probabilidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Descripción y Exploración de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Digital",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de la Ciencia de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Inferencia Paramétrica",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos Matemáticos para la Ciencia de los Datos I",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos Matemáticos para la Ciencia de los Datos II",
+                "ects": "6"
+            },
+            {
+                "subject": "Programación I",
+                "ects": "6"
+            },
+            {
+                "subject": "Programación II",
+                "ects": "6"
+            },
+            {
+                "subject": "Software Estadístico I",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Aprendizaje Supervisado I",
+                "ects": "6"
+            },
+            {
+                "subject": "Bases de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Estudio y Depuración de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Indicadores Socioeconómicos y Open Data",
+                "ects": "6"
+            },
+            {
+                "subject": "Inferencia No Paramétrica",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemática Discreta para la Ciencia de los Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos Matemáticos para la Ciencia de los Datos III",
+                "ects": "6"
+            },
+            {
+                "subject": "Programación para el Análisis y la Ciencia de los Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Series Temporales",
+                "ects": "6"
+            },
+            {
+                "subject": "Software Estadístico II",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Análisis de Datos Espaciales",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis de Redes Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Aprendizaje No Supervisado",
+                "ects": "6"
+            },
+            {
+                "subject": "Aprendizaje Supervisado II",
+                "ects": "6"
+            },
+            {
+                "subject": "Aprendizaje Supervisado III",
+                "ects": "6"
+            },
+            {
+                "subject": "Bases de Datos NoSQL",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciencia de Datos y Salud",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría para la Ciencia de los Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Análisis de Datos No Estructurados I",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis de Datos No Estructurados II",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis del Cliente en Marketing",
+                "ects": "6"
+            },
+            {
+                "subject": "Big Data: Procesamiento Distribuido y Paralelo",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión y Evaluación de Riesgos",
+                "ects": "6"
+            },
+            {
+                "subject": "Minería de Texto",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "12"
+            },
+            {
+                "subject": "Análisis Bayesiano de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis de Datos para las Ciencias del Seguro",
+                "ects": "6"
+            },
+            {
+                "subject": "Aplicaciones de Ciencia de los Datos y Redes Sociales a Fenómenos Sociopolíticos",
+                "ects": "6"
+            },
+            {
+                "subject": "Aplicaciones de Modelización Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Biblioteca, Datos e Información Científica",
+                "ects": "6"
+            },
+            {
+                "subject": "Business Intelligence y Estrategia Empresarial",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciencia de Datos Aplicada a la Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Protección de Datos Personales Aplicada a la Ciencia de los Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Simulación en Ciencia de los Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas de Información Geográfica para la Ciencia de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nManejo de técnicas y herramientas básicas de\nálgebra, cálculo y análisis numérico para re-\nsolver problemas en el ámbito de la Ciencia de\nlos Datos.\n\nIdentificación y selección de las principales\nfuentes de información e indicadores en dife-\nrentes ámbitos de aplicación.\n\nMetodología para resolver problemas reales:\nidentificar la información, diseñar el estudio,\nanalizar los datos, construir un modelo adecua-\ndo, interpretar los resultados y emitir informes\ntécnicos.\n\nIdentificación de la utilidad y el potencial de\nlas técnicas estadísticas y de análisis de datos\nadquiridas en las distintas áreas de aplicación\ny utilizarlas adecuadamente para descubrir pa-\ntrones de comportamiento en datos de cual-\nquier volumen y tipología y extraer conclusiones\nrelevantes.\n\nEstimación, diagnosis, comparación y validación\nde modelos en diferentes problemas de inferen-\ncia y predicción sobre poblaciones de estudio.\n\nTécnicas estadísticas y de aprendizaje automá-\ntico en el análisis de datos cualitativos y cuanti-\ntativos de cualquier volumen y tipo, tales como\nespaciales, de texto, imágenes, etc.\n\nUtilización de las herramientas de software\nnecesarias para almacenar, procesar y visuali-\nzar datos de cualquier volumen sobre distintos\námbitos.\n\nAlmacenamiento y procesamiento eficiente de\ndatos estructurados y no estructurados de di-\nverso tipo y de cualquier volumen.\n\nDiseño, programación e implantación de aplica-\nciones de análisis y Ciencia de los Datos.\n\nIdentificación y aplicación de las técnicas para\nla extracción de información, preparación y de-\npuración de la información disponible para su\nposterior análisis de datos.\n\nTécnicas y herramientas para la predicción y la\ncuantificación de la relación entre variables de\ndiferentes ámbitos de aplicación.\n\nIdentificación y aplicación de las técnicas algo-\nrítmicas básicas y avanzadas para encontrar\nsoluciones secuenciales y paralelas a proble-\nmas, analizando la complejidad y la adecuación\nde los algoritmos propuestos según el tipo, la\norganización y el volumen de los datos.\n\nIdentificación y aplicación de las técnicas de\nanálisis de datos para la gestión de proyectos.",
+    "salidas_profesionales": "\nIngeniería: control de calidad, procesos de con-\ntrol, fiabilidad, logística, reconocimiento de pa-\ntrones.\n\nSector biosanitario: epidemiología, elaboración\nde medicamentos, datos genómicos, etc.\n\nSector empresarial: estudios de mercado, finan-\nzas, seguros, inserción laboral, implantación de\nproductos, relaciones con el cliente, auditoría y\nconsultoría, etc.\n\nÁmbitos relacionados con el medio ambiente y\nel cambio climático, medios de comunicación,\ngeografía, demografía, agricultura, alimentación,\ndeportes, tercer sector, etc.\n\nTodos los sectores y organismos: análisis, tra-\ntamiento e interpretación de datos y big data.\nToma de decisiones basada en datos de cual-\nquier tipo y volumen.\n\nAdministración pública, docencia e investigación."
+}

@@ -1,0 +1,247 @@
+{
+    "degree_title": "Derecho",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Derecho"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Derecho Constitucional: Constitución y Fuentes del Ordenamiento Jurídico. Justicia Constitucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Romano",
+                "ects": "6"
+            },
+            {
+                "subject": "Habilidades Básicas del Jurista",
+                "ects": "3"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Sistema Jurídico",
+                "ects": "6"
+            },
+            {
+                "subject": "La Formación del Derecho Común Europeo",
+                "ects": "3"
+            },
+            {
+                "subject": "Segundo semestre Derecho Civil: Derecho de la Persona y de las Relaciones Familiares",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Organización Constitucional y Territorial del Estado",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía del Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos del Derecho Moderno y Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Derecho Penal y Consecuencias Jurídicas del Delito",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Civil: Teoría General de la Obligación y del Contrato",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Derechos Fundamentales y su Protección",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Público",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Presupuestario Español y de la Unión Europea",
+                "ects": "3"
+            },
+            {
+                "subject": "Historia e Instituciones de la Unión Europea",
+                "ects": "3"
+            },
+            {
+                "subject": "Teoría Jurídica del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Administrativo: Fundamentos, Fuentes, Sujetos y Potestades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Contratos y Responsabilidad Civil",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Penal: Parte Especial",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: Parte General",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Unión Europea",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "CONTINUACIÓN Segundo semestre Derecho Administrativo: Medios, Responsabilidad y Control",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Sociedades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: el Proceso Penal",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Instituciones y Relaciones Colectivas del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Tributario Español",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Civil: Economía del Matrimonio y Sucesiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Privado: Fundamentos y Patrimonio",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Mercados Financieros y Concursal",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Contrato de Trabajo y Proceso Laboral",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativas (elegir 1) Derecho y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Reestructuraciones Empresariales",
+                "ects": "6"
+            },
+            {
+                "subject": "Tutela del Crédito y Procesos Especiales",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Contabilidad para Juristas",
+                "ects": "3"
+            },
+            {
+                "subject": "Derecho Internacional Privado de Personas y Familia",
+                "ects": "3"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativas (elegir 3) Bienes Públicos, Urbanismo y Medio Ambiente",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Inmigración",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Seguridad Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de las Nuevas Tecnologías",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Inmobiliario Registral",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Penal Económico y de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derechos Humanos y Justicia",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos Romanísticos del Derecho Privado Europeo",
+                "ects": "6"
+            },
+            {
+                "subject": "Gobernanza Económica Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Instituciones y Organizaciones Internacionales",
+                "ects": "6"
+            },
+            {
+                "subject": "Reestructuraciones Empresariales",
+                "ects": "6"
+            },
+            {
+                "subject": "Relaciones Familiares y Pluralismo Jurídico",
+                "ects": "6"
+            },
+            {
+                "subject": "Servicios Públicos y Sectores Regulados",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas Jurídicos Contemporáneos Comparados",
+                "ects": "6"
+            },
+            {
+                "subject": "Tutela del Crédito y Procesos Especiales",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nFundamentos históricos, filosóficos y constitu-\ncionales del ordenamiento jurídico.\n\nPrincipales instituciones públicas y privadas de\nnuestro ordenamiento jurídico en su génesis, en\nsu individualidad y en su conjunto.\n\nAnálisis crítico del ordenamiento jurídico.\n\nFuentes jurídicas:\n• Manejo con apoyo en las TIC y en las bases\nde datos de legislación y jurisprudencia.\n• Identificación y aplicación de las fuentes ju-\nrídicas de relevancia y de los principios ge-\nnerales del derecho a una cuestión concreta.\n\nConocimientos teóricos y aplicaciones prácticas\nde las distintas disciplinas que integran nuestro\nsistema jurídico (Derecho Administrativo, Civil,\nComunitario, Constitucional, Eclesiástico del\nEstado, Financiero y Tributario, Internacional\nPúblico y Privado, Mercantil, Penal, Procesal,\nDerecho del Trabajo).\n\nInterrelaciones entre la Economía y el Derecho.\n\nAnálisis de la realidad social desde la perspec-\ntiva del Derecho como sistema regulador de las\nrelaciones sociales.\n\nNegociación, argumentación y mediación.\n\nLectura, interpretación y redacción de textos\nde naturaleza jurídica, desde una perspectiva\ninterdisciplinar.",
+    "salidas_profesionales": "Con la formación complementaria que en su caso\npuede exigir la normativa en vigor, posibilitará el\nacceso a profesiones tales como:\n\nAbogado y procurador de los tribunales.\n\nAgente de la propiedad industrial.\n\nAuditor de cuentas.\n\nGestor administrativo.\nPrevia superación del correspondiente concur-\nso-oposición u oposición:\n\nJuez, fiscal, abogado del estado, secretario ju-\ndicial.\n\nLetrado de distintos cuerpos de la administra-\nción pública (Consejo de Estado, Cortes Gene-\nrales, tribunales de cuentas, comunidades autó-\nnomas, parlamentos regionales, etc.).\n\nNotario, registrador de la propiedad y mercantil.\n\nDiplomático, funcionario de la Unión Europea y\nde otros organismos internacionales.\n\nInspector de hacienda, inspector de trabajo.\n\nTécnico superior de la administración pública\n(estatal, autonómica y local), secretario inter-\nventor de la administración local.\n\nCuerpo jurídico militar.\n\nOtras profesiones vinculadas a la función pú-\nblica.\nEmpresas nacionales e internacionales del sector\nindustrial, comercial, banca, seguros, cooperación\nal desarrollo, etc., en distintas áreas:\n\nPersonal y recursos humanos.\n\nAsesoría jurídica.\n\nAsesoría fiscal y tributaria.\n\nComercio exterior.\n\nDocencia e investigación."
+}

@@ -1,0 +1,283 @@
+{
+    "degree_title": "Comunicación Audiovisual",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias de la Información"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Arte Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Ética y Deontología Profesional",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Cine",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Mundo Actual",
+                "ects": "6"
+            },
+            {
+                "subject": "La Cultura de la Imagen",
+                "ects": "6"
+            },
+            {
+                "subject": "Lengua Española",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnologías de la Sociedad de la Información Aplicadas a la Comunicación Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de la Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Una Optativa",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Análisis de la Imagen",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Comunicación Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Aplicada a la Comunicación Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura y Empresa de Radio",
+                "ects": "6"
+            },
+            {
+                "subject": "Fotografía",
+                "ects": "6"
+            },
+            {
+                "subject": "Literatura y Medios de Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología de la Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología Digital Aplicada a los Medios Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Una Optativa",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Dirección Cinematográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Guion",
+                "ects": "6"
+            },
+            {
+                "subject": "Narrativa Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría del Texto Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría y Técnica del Sonido",
+                "ects": "6"
+            },
+            {
+                "subject": "Cuatro Optativas",
+                "ects": "24"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Edición y Postproducción",
+                "ects": "6"
+            },
+            {
+                "subject": "Empresa Cinematográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura y Empresa de Televisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Realización Televisiva",
+                "ects": "6"
+            },
+            {
+                "subject": "Cinco Optativas",
+                "ects": "30"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE",
+                "ects": "1"
+            },
+            {
+                "subject": "ER Documentación Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de la Comunicación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Cultura",
+                "ects": "6"
+            },
+            {
+                "subject": "Arte Español Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión del Patrimonio Documental Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Cine Español",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Cambio y Estructura Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección de Actores",
+                "ects": "6"
+            },
+            {
+                "subject": "Estética Musical",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia y Análisis del Arte Visual",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Teatro y de la Representación Escénica",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Diseño Gráfico",
+                "ects": "6"
+            },
+            {
+                "subject": "La Lengua Española en la Comunicación Audiovisual",
+                "ects": "6"
+            },
+            {
+                "subject": "Literatura y Cine",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing Aplicado a los Medios Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Narrativa Hipermedia",
+                "ects": "6"
+            },
+            {
+                "subject": "Realización Publicitaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Comunicación Digital",
+                "ects": "6"
+            },
+            {
+                "subject": "Comunicación Interpersonal",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Comunicación en Internet",
+                "ects": "6"
+            },
+            {
+                "subject": "Fotoperiodismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Cine Informativo y Documental",
+                "ects": "6"
+            },
+            {
+                "subject": "Industrias Culturales",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing Social y Político",
+                "ects": "6"
+            },
+            {
+                "subject": "Metodología de la Investigación Social en Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Creatividad",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas de Investigación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Narrativa Cinematográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Relaciones Internacionales en los Medios Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso, en lugar de una asignatura optativa",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nConocimientos para comprender los cambios y\nla evolución histórica de la imagen y de la cul-\ntura audiovisual, así como los distintos mode-\nlos del lenguaje cinematográfico, audiovisual y\nmultimedia.\n\nConocimientos para analizar el discurso audio-\nvisual, atendiendo a los parámetros básicos\ndel análisis y los modelos teóricos existentes.\n\nConocimientos para identificar y desarrollar los\nprocesos y técnicas implicadas en la dirección\ny gestión de empresas audiovisuales y ver las\noportunidades del mercado: producción, distri-\nbución y exhibición.\n\nConocimientos para aplicar procesos y técnicas\nimplicadas en la organización y gestión de re-\ncursos técnicos en cualquiera de los soportes\nsonoros y visuales existentes.\n\nConocimientos para aplicar técnicas y procesos\nde creación y difusión en el campo del diseño\ngráfico y de los productos multimedia e hiper-\nmedia en sus diversas fases, desde una pers-\npectiva teórica y práctica.\n\nConocimientos para comprender los nuevos\nsoportes comunicativos, además de producir,\ncrear, distribuir y analizar contenidos específi-\ncos de los mismos.",
+    "salidas_profesionales": "\nDirector-realizador audiovisual y de productos\nmultimedia.\n\nProductor audiovisual y multimedia.\n\nGuionista audiovisual y multimedia.\n\nDirector artístico.\n\nEditor y postproductor audiovisual.\n\nDiseñador de sonido y postproducción sonora.\n\nDiseñador gráfico audiovisual.\n\nGestor audiovisual.\n\nFotógrafo de estudio, de moda, reportero gráfico.\n\nDocencia e investigación."
+}

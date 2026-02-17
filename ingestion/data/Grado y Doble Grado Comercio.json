@@ -1,0 +1,223 @@
+{
+    "degree_title": "Comercio",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Comercio y Turismo"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Contabilidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Española y Mundial",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos del Marketing",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Económica y del Comercio",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma: Inglés, Francés o Alemán",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización de Empresas",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Comunicación Comercial: Publicidad y Promoción",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad de Costes",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Laboral",
+                "ects": "4,5"
+            },
+            {
+                "subject": "Derecho Mercantil",
+                "ects": "9"
+            },
+            {
+                "subject": "Derecho Tributario",
+                "ects": "4,5"
+            },
+            {
+                "subject": "Estadística: Análisis de Datos e Inferencia",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma para la Gestión Comercial I: Inglés, Francés o Alemán",
+                "ects": "6"
+            },
+            {
+                "subject": "Informática Aplicada a la Gestión Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas para la Gestión Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Análisis Contable",
+                "ects": "6"
+            },
+            {
+                "subject": "Comercio Electrónico",
+                "ects": "6"
+            },
+            {
+                "subject": "Comportamiento del Consumidor",
+                "ects": "6"
+            },
+            {
+                "subject": "Distribución Comercial y Gestión Logística",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión de Compras e Inventarios",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión de Ventas y Negociación Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas Estadísticas Multivariables en Gestión Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Tres Optativas",
+                "ects": "18"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Comercio Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Creación de Empresas",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión de la Fuerza de Ventas",
+                "ects": "6"
+            },
+            {
+                "subject": "Investigación Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing Estratégico",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Análisis y Tratamiento Estadístico de Datos Cualitativos de Clientes",
+                "ects": "6"
+            },
+            {
+                "subject": "Coaching y Desarrollo Personal",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad Informática para el Comercio",
+                "ects": "6"
+            },
+            {
+                "subject": "Control Contable de las Empresas Comerciales",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión de Calidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma para la Gestión Comercial II: Inglés",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma para la Negociación Internacional: Inglés",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing Directo y Marketing Relacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing entre Organizaciones",
+                "ects": "6"
+            },
+            {
+                "subject": "Merchandising y Gestión de Categorías",
+                "ects": "6"
+            },
+            {
+                "subject": "Política de Productos y Servicios",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas de Comercio Interior",
+                "ects": "6"
+            },
+            {
+                "subject": "Simulación Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nSaber reunir e interpretar datos sociales y eco-\nnómicos relevantes para la función comercial\nde forma que puedan emitir juicios sobre temas\nrelevantes de índole comercial.\n\nAlcanzar habilidades de comunicación, coope-\nración interpersonal y trabajo en equipo con el\nobjetivo de desenvolverse convenientemente\ncon todos los agentes que operan en la función\ncomercial.\n\nConocer y comprender distintas realidades cul-\nturales para establecer contactos con el fin de\ndesarrollar mercados a nivel internacional e,\nincluso, global de los países implicados y adap-\ntar las distintas estrategias comerciales tanto\nal consumidor como a la sociedad donde se\ndesenvuelve.\n\nComprender y aplicar los mecanismos y técni-\ncas de planificación, análisis de información,\nnegociación, decisión y control en la relación\ncomercial, teniendo como base la estrategia\ncomercial de la empresa y la era digital.\n\nDesarrollar las capacidades de futuros gestores\ny directivos comerciales.\n\nSaber comportarse con una actitud responsable\nante los mercados y los consumidores con el\nfin de aplicar las estrategias y técnicas que se\naprendan con el necesario cuidado por la norma\ny la ética profesional y respeto por el mercado y\nla sociedad en general.\n\nAprender a aprender, por ejemplo saber cómo,\ncuándo, dónde… nuevos desarrollos persona-\nles son necesarios (por ejemplo, la retórica, las\npresentaciones, el trabajo en equipo o la gestión\nde personal).",
+    "salidas_profesionales": "\nDirector comercial.\n\nDirector de marketing.\n\nDirector de marketing digital.\n\nDirector de ventas.\n\nDirector de producto.\n\nJefe de áreas de distribución.\n\nJefe de sección comercial.\n\nJefe de grandes cuentas.\n\nJefe de redes comerciales.\n\nJefe de expansión.\n\nControllers.\n\nGestor comercial.\n\nDelegado comercial.\n\nDirector de sucursal.\n\nTécnico comercial.\n\nEjecutivo comercial.\n\nEjecutivo de ventas.\n\nEjecutivo de grandes cuentas.\n\nGestor de cuentas (Key Account Manager).\n\nTrade managers.\n\nTécnico de postventas.\n\nResponsable de merchandising.\n\nComercial/agente comercial."
+}

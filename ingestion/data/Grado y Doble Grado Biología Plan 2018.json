@@ -1,0 +1,239 @@
+{
+    "degree_title": "Biología",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Biológicas"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Bioestadística",
+                "ects": "6"
+            },
+            {
+                "subject": "Biología Celular e Histología",
+                "ects": "12"
+            },
+            {
+                "subject": "Biomatemáticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Bioquímica",
+                "ects": "12"
+            },
+            {
+                "subject": "Física Aplicada a la Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Geología Aplicada a la Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos en Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Química Aplicada a la Biología",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Botánica",
+                "ects": "12"
+            },
+            {
+                "subject": "Genética",
+                "ects": "12"
+            },
+            {
+                "subject": "Microbiología",
+                "ects": "12"
+            },
+            {
+                "subject": "Zoología",
+                "ects": "12"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Biología Evolutiva",
+                "ects": "12"
+            },
+            {
+                "subject": "Ecología",
+                "ects": "12"
+            },
+            {
+                "subject": "Fisiología Animal",
+                "ects": "12"
+            },
+            {
+                "subject": "Fisiología Vegetal",
+                "ects": "12"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Biología Experimental",
+                "ects": "9"
+            },
+            {
+                "subject": "Proyectos y Estudios en Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Cinco Optativas de Mención",
+                "ects": "30"
+            },
+            {
+                "subject": "Una Optativa de Perfil Profesional",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "9"
+            },
+            {
+                "subject": "OPTATIVAS DE 2º Y",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Antropología Física",
+                "ects": "6"
+            },
+            {
+                "subject": "Biogeografía",
+                "ects": "6"
+            },
+            {
+                "subject": "Biología del Desarrollo",
+                "ects": "6"
+            },
+            {
+                "subject": "Ecología de los Recursos Naturales",
+                "ects": "6"
+            },
+            {
+                "subject": "Etología",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Ingeniería Genética y Genómica",
+                "ects": "6"
+            },
+            {
+                "subject": "Organografía Microscópica",
+                "ects": "6"
+            },
+            {
+                "subject": "Regulación del Metabolismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Perfil Profesional Historia, Enseñanza y Difusión de la Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Iniciación a la Investigación",
+                "ects": "6"
+            },
+            {
+                "subject": "Neurobiología",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Biología Ambiental Análisis de la Biodiversidad Animal",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis de la Biodiversidad Vegetal",
+                "ects": "6"
+            },
+            {
+                "subject": "Biología de la Conservación",
+                "ects": "6"
+            },
+            {
+                "subject": "Biología de la Contaminación",
+                "ects": "6"
+            },
+            {
+                "subject": "Descripción y Valoración Ambiental de Ecosistemas",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión Sostenible del Medio Natural",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Biotecnología Análisis Biológico y Control de Calidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Biología Aplicada a la Producción Animal y Vegetal",
+                "ects": "6"
+            },
+            {
+                "subject": "Biorremediación y Control Ambiental",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología de Enzimas",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología Microbiana",
+                "ects": "6"
+            },
+            {
+                "subject": "Cultivos Celulares y Transgénesis",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Biología Sanitaria Bioquímica Clínica y Patología Molecular",
+                "ects": "6"
+            },
+            {
+                "subject": "Fisiopatología y Farmacología",
+                "ects": "6"
+            },
+            {
+                "subject": "Genética Humana",
+                "ects": "6"
+            },
+            {
+                "subject": "Inmunología y Análisis Clínicos",
+                "ects": "6"
+            },
+            {
+                "subject": "Microbiología Clínica y Epidemiología",
+                "ects": "6"
+            },
+            {
+                "subject": "Parasitología y Vectores de Transmisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nEstructura, funcionamiento y organización de\nlos organismos vivos a todos sus niveles (mo-\nlecular, genético, celular, individuo, población,\ncomunidades y ecosistemas).\n\nMétodo científico y su aplicación al diagnóstico\ny resolución de problemas biológicos.\n\nInvestigación básica y aplicada en biología: Mé-\ntodos y herramientas de estudio y análisis.\n\nProcesos biológicos industriales, agropecuarios\ny biotecnológicos.\n\nAgentes biológicos que afectan a la conserva-\nción de materiales y productos.\n\nProductos químicos y biológicos de uso sanita-\nrio, agrícola, industrial y de servicios.\n\nEstudios demográficos y epidemiológicos.\n\nAnálisis biológico, control y depuración de\naguas.\n\nProducción, manipulación y control de calidad\nde los organismos y materiales de origen bioló-\ngico, incluidos los alimentos.\n\nEstudios y análisis clínicos, microbiológicos e\ninmunobiológicos.\n\nOrigen y evolución de la diversidad biológica.\nIdentificación y clasificación de los organismos\nvivos. Patrones de distribución y análisis filo-\ngenético.\n\nEcología: estructura y función de ecosistemas.\n\nConservación y gestión sostenible del medio\nnatural. Planificación y explotación racional de\nrecursos naturales renovables. Organización y\ngestión de espacios naturales protegidos, Im-\npacto ambiental y restauración de ecosistemas.\n\nContaminación industrial, agrícola y urbana.\n\nBioindicadores. Control de infecciones y plagas.\n\nGenética y genómica. Consejo genético y plani-\nficación familiar.\n\nEstructuras biológicas en desarrollo embriona-\nrio y ontogénico, normal y patológico.\n\nEnseñanza y difusión de la biología.",
+    "salidas_profesionales": "\nSanidad (laboratorios clínicos, BIR, reproduc-\nción humana, salud pública, nutrición y dieté-\ntica, salud animal y vegetal, análisis genéticos\ny genómicos...).\n\nInvestigación y desarrollo.\n\nBiotecnología e industria (farmacéutica, agroa-\nlimentaria y química).\n\nÁmbito agropecuario (optimización de cultivos\nvegetales, animales y hongos explotados regu-\nlarmente, mejora genética por métodos clásicos\nu obtención de transgénicos y búsqueda de nue-\nvos recursos vivos explotables).\n\nSostenibilidad y medio ambiente: estudio y\nconservación de la biodiversidad, ordenación y\nusos del territorio, gestión de recursos naturales\n(forestales, agrícolas, marítimos, etc.), gestión\nde residuos, depuración de aguas, contamina-\nción, evaluación de impactos y restauración del\nmedio natural.\n\nInformación, documentación y divulgación en\nmuseos, parques naturales, zoológicos, edito-\nriales, empresas, fundaciones científicas, etc.\n\nComercio y planificación de ventas de productos\ny servicios relacionados con la ciencia biológica.\n\nGestión y organización de empresas (ámbitos\nbiotecnológico, sanitario, medio ambiente...).\n\nDocencia (enseñanza secundaria, universitaria,\nformación profesional, formación continua y\nposgrado).\n\nAsesoría científica y técnica."
+}

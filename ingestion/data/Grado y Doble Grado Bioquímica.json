@@ -1,0 +1,195 @@
+{
+    "degree_title": "Bioquímica",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Químicas"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Biología",
+                "ects": "12"
+            },
+            {
+                "subject": "Bioquímica General",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística y Cálculo Matemático",
+                "ects": "6"
+            },
+            {
+                "subject": "Física para Biociencias",
+                "ects": "6"
+            },
+            {
+                "subject": "Laboratorio Integrado de Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Laboratorio Integrado de Química",
+                "ects": "6"
+            },
+            {
+                "subject": "Química",
+                "ects": "12"
+            },
+            {
+                "subject": "Técnicas de Análisis Bioquímico I",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Biosíntesis de Macromoléculas",
+                "ects": "6"
+            },
+            {
+                "subject": "Enzimología",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura de Membranas Biológicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura de Proteínas y Ácidos Nucleicos",
+                "ects": "9"
+            },
+            {
+                "subject": "Laboratorio de Bioquímica y Biología Molecular I",
+                "ects": "9"
+            },
+            {
+                "subject": "Laboratorio de Bioquímica y Biología Molecular II",
+                "ects": "6"
+            },
+            {
+                "subject": "Regulación del Metabolismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Señalización Celular",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Análisis Bioquímico II",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Bioquímica Clínica",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos del Diseño de Biorreactores",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Ingeniería Bioquímica",
+                "ects": "6"
+            },
+            {
+                "subject": "Ingeniería Genética",
+                "ects": "6"
+            },
+            {
+                "subject": "Inmunología",
+                "ects": "6"
+            },
+            {
+                "subject": "Laboratorio Integrado de Aplicaciones Biomédicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Laboratorio Integrado de Biotecnología",
+                "ects": "6"
+            },
+            {
+                "subject": "Microbiología, Parasitología y Virología Clínicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Patología Molecular",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos Biotecnológicos",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Biofísica y Bioinformática",
+                "ects": "6"
+            },
+            {
+                "subject": "Laboratorio Integrado de Biofísica y Bioinformática",
+                "ects": "6"
+            },
+            {
+                "subject": "Cinco Asignaturas Optativas",
+                "ects": "30"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "18"
+            },
+            {
+                "subject": "Bioquímica Ambiental",
+                "ects": "6"
+            },
+            {
+                "subject": "Bioquímica del Desarrollo",
+                "ects": "6"
+            },
+            {
+                "subject": "Bioquímica Farmacológica y Toxicológica",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología de Alimentos",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología Ambiental",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología Clínica y Farmacéutica",
+                "ects": "6"
+            },
+            {
+                "subject": "Biotecnología de Plantas",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de la Bioquímica",
+                "ects": "6"
+            },
+            {
+                "subject": "Inmunología Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Microbiología Industrial",
+                "ects": "6"
+            },
+            {
+                "subject": "Neuroquímica",
+                "ects": "6"
+            },
+            {
+                "subject": "Temas Actuales de Bioquímica y Biología Molecular",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nConceptos y principios de la Bioquímica.\n\nPrincipios físicos implicados en un proceso\nbiológico.\n\nTransformaciones químicas implicadas en un\nproceso biológico.\n\nMecanismos moleculares del metabolismo.\n\nTransmisión de la información genética a nivel\nmolecular y celular.\n\nBases moleculares de estados patológicos.\n\nMetodología experimental bioquímica.\n\nManipulación en un laboratorio de materiales\nbiológicos y químicos.\n\nProcesamiento de residuos de un laboratorio.\n\nReconocimiento de tejidos, células y orgánulos\nsubcelulares.\n\nNiveles de organización estructural de las pro-\nteínas.\n\nCinética enzimática y mecanismos de regula-\nción de las enzimas.\n\nÁcidos nucleicos y organización del genoma.\n\nAislamiento y cuantificación de macromolécu-\nlas biológicas.\n\nMecanismos moleculares involucrados en pro-\ncesos fisiológicos.\n\nAnálisis de estructuras de macromoléculas\nbiológicas.\n\nAplicaciones biotecnológicas.\n\nUso de la literatura científica para análisis de\ndatos e información.\n\nRelación de la Bioquímica con otras áreas cien-\ntíficas.\n\nImplicaciones éticas, sociales, económicas y\nambientales de la actividad bioquímica.",
+    "salidas_profesionales": "El Grado en Bioquímica debe formar profesionales\nque sean capaces de transmitir conocimientos a\ndiferentes niveles, tanto en enseñanza secunda-\nria como en enseñanza universitaria, y que puedan\ncontinuar sus estudios de especialización en el área\nde la Bioquímica y la Biología Molecular o en áreas\nmultidisciplinares, con fines de Investigación Cien-\ntífica. Asimismo, podrán desarrollar su actividad en\nel sector sanitario, en áreas como Análisis Clínicos,\nBioquímica, Microbiología, Parasitología, Inmuno-\nlogía, y en el sector productivo, en el ámbito de la\ngestión y en el de los negocios relacionados con las\nBiociencias Moleculares."
+}
