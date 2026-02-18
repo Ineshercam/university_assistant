@@ -1,0 +1,171 @@
+{
+    "degree_title": "Criminología",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Derecho"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Antropología Jurídica",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Psicología",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas de Investigación Aplicadas a la Criminología",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Penal I (Parte General)",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos Biológicos-Médicos de la Conducta",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos Criminológicos I",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología de la Personalidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología General",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Criminalidad Organizada",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Penal II",
+                "ects": "6"
+            },
+            {
+                "subject": "Encuestas y Estadística de la Criminalidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos Criminológicos II",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Ciencia Penitenciaria: Bases Jurídicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal Penal",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología Jurídica",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicopatología Criminal y Victimológica",
+                "ects": "6"
+            },
+            {
+                "subject": "Victimología",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Primer semestre Delincuencia Juvenil",
+                "ects": "6"
+            },
+            {
+                "subject": "Intervención Psicológica en la Delincuencia",
+                "ects": "6"
+            },
+            {
+                "subject": "Medicina Legal y Forense I",
+                "ects": "6"
+            },
+            {
+                "subject": "Psiquiatría Criminal y Forense",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Análisis Jurídico-Económico del Delito e Inseguridad Ciudadana",
+                "ects": "6"
+            },
+            {
+                "subject": "Delincuencia en la Red",
+                "ects": "6"
+            },
+            {
+                "subject": "Evaluación y Gestión del Riesgo de Violencia",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas Públicas y Prevención del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología del Testimonio",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Primer semestre Humanismo Dinámico",
+                "ects": "6"
+            },
+            {
+                "subject": "Medicina Legal y Forense II",
+                "ects": "6"
+            },
+            {
+                "subject": "Modelos de Justicia",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativas (Sociología, Psicología, Medicina, Derecho) * Máximo",
+                "ects": "12"
+            },
+            {
+                "subject": "Segundo semestre Optativas (Sociología, Psicología, Derecho, Trabajo Social) * Máximo",
+                "ects": "12"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "* Las asignaturas optativas ofertadas y su distribución semes- tral se indicarán en cada curso académico. Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nAnálisis multidisciplinar (sociológico, psicoló-\ngico, antropológico, etc.) y empírico del crimen.\n\nEncuestas, estadísticas y otras técnicas de in-\nvestigación aplicadas a la Criminología.\n\nEvolución de la Criminología como ciencia: mé-\ntodo, objeto de estudio y fines a través del exa-\nmen de las teorías criminológicas que buscan\nuna explicación al fenómeno delictivo.\n\nPrincipios jurídicos y derechos fundamentales\nen el ordenamiento jurídico español.\n\nSaber qué es un delito y qué consecuencias\ntiene su comisión: las penas y las medidas de\nseguridad y su régimen de cumplimiento.\n\nTipologías delictivas y nuevas formas de crimi-\nnalidad: criminalidad organizada, delincuencia\nen la red, etc.\n\nEl proceso penal y los derechos y garantías del\nprocesado.\n\nAnálisis de los factores criminógenos: drogode-\npendencias, pobreza, situaciones de exclusión,\netc.\n\nPolíticas públicas de prevención del delito y aná-\nlisis de los programas de prevención.\n\nFactores que contribuyen a la victimización y\ntécnicas de intervención y recuperación de la\nvíctima a través de programas de asistencia.\n\nViolencia de género: factores de riesgo y trata-\nmiento de víctima y maltratador.\n\nLa enfermedad mental y su influencia en la cri-\nminalidad.\n\nAnálisis de la delincuencia juvenil, examinando\nlas medidas de seguridad aplicables y solucio-\nnes alternativas al proceso.\n\nDistintos modelos de Justicia: disuasión, reso-\ncialización y conciliación-mediación.\n\nTécnicas de investigación forense y policial: Ta-\nnatología, Toxicología, Balística, Dactiloscopia,\netc.",
+    "salidas_profesionales": "\nCentros penitenciarios: formar parte de las jun-\ntas de tratamiento y de los equipos técnicos.\n\nÁmbito policial: tareas policiales, victimológicas\ny criminalísticas.\n\nAsesorar a jueces y fiscales en materia de ejecu-\nción de penas (vigilancia penitenciaria).\n\nJusticia de Menores: elaborar informes con el\nequipo técnico en el juicio oral, seguimiento so-\nbre la evolución del menor y control de medidas\nimpuestas; realizar informes sobre sustitución o\nsuspensión de medida. Intervenir como experto\nen el proceso de mediación-conciliación. Evaluar\nsituaciones de riesgo y desamparo.\n\nAsesorar en la elaboración de estrategias polí-\ntico-criminales.\n\nInvestigación criminológica y planificación y ela-\nboración de estudios empíricos en este campo.\n\nIntervención y asistencia a las víctimas en Ofi-\ncinas de Atención a las Víctimas y entidades u\norganismos similares.\n\nMarginalidad: realizar estudios y trabajo de cam-\npo, programas de prevención (trabajo social,\norganizaciones no gubernamentales, etc.).\n\nSeguridad privada: formación de mandos, ase-\nsoramiento y planificación de actividades.\n\nRealizar tareas de docencia en distintos nive-\nles, formando tanto a los operadores jurídicos,\ncomo a profesionales que llevan a cabo progra-\nmas de prevención e intervención."
+}

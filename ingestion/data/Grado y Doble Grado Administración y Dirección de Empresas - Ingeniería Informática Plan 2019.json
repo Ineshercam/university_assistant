@@ -1,0 +1,286 @@
+{
+    "degree_title": "Administración y Dirección de Empresas / Ingeniería Informática",
+    "degree_type": "Doble Grado",
+    "faculties": [
+        "Facultad de Ciencias Económicas y Empresariales",
+        "Facultad de Informática"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Derecho de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Computadores I y II",
+                "ects": "6 + 6"
+            },
+            {
+                "subject": "Fundamentos de Dirección de Empresas",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de la Programación I y II",
+                "ects": "6 + 6"
+            },
+            {
+                "subject": "Historia Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemática Discreta y Lógica Matemática I y II",
+                "ects": "6 + 6"
+            },
+            {
+                "subject": "Matemáticas Empresariales I y II",
+                "ects": "6 + 6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Bases de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad Financiera I",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil I",
+                "ects": "3"
+            },
+            {
+                "subject": "Entorno Económico Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística Empresarial I",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructuras de Datos",
+                "ects": "4,5"
+            },
+            {
+                "subject": "Fundamentos de la Administración Financiera de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Algoritmia",
+                "ects": "4,5"
+            },
+            {
+                "subject": "Fundamentos de Electricidad y Electrónica",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas Financieras",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología de la Programación I y II",
+                "ects": "6 + 6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Ampliación de Bases de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad Financiera II",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad de Gestión",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Española",
+                "ects": "3"
+            },
+            {
+                "subject": "Estadística Empresarial II",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura de Computadores",
+                "ects": "6"
+            },
+            {
+                "subject": "Ingeniería del Software I y II",
+                "ects": "4,5 + 4,5"
+            },
+            {
+                "subject": "Política Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Fiscal I y II",
+                "ects": "3 + 6"
+            },
+            {
+                "subject": "Software Corporativo",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología y Organización de Computadores",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Análisis y Consolidación Contable",
+                "ects": "6"
+            },
+            {
+                "subject": "Aplicaciones Web",
+                "ects": "6"
+            },
+            {
+                "subject": "Auditoría Informática I y II",
+                "ects": "4,5 + 4,5"
+            },
+            {
+                "subject": "Dirección de Recursos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Evaluación de Configuraciones",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Marketing",
+                "ects": "6"
+            },
+            {
+                "subject": "Investigación Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización y Diseño",
+                "ects": "6"
+            },
+            {
+                "subject": "Redes",
+                "ects": "6"
+            },
+            {
+                "subject": "Redes y Seguridad I y II",
+                "ects": "4,5 + 4,5"
+            },
+            {
+                "subject": "Sistemas Operativos",
+                "ects": "6"
+            },
+            {
+                "subject": "Valoración de Activos y Análisis de Inversiones",
+                "ects": "6"
+            }
+        ],
+        "QUINTO CURSO": [
+            {
+                "subject": "Ampliación de Sistemas Operativos y Redes",
+                "ects": "6"
+            },
+            {
+                "subject": "Análisis y Planificación Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Arquitectura de Computadores",
+                "ects": "6"
+            },
+            {
+                "subject": "Comportamiento del Consumidor",
+                "ects": "6"
+            },
+            {
+                "subject": "Decisiones de Financiación",
+                "ects": "6"
+            },
+            {
+                "subject": "Desarrollo de Sistemas Interactivos",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección Estratégica",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección de la Producción",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Decisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Asignatura Optativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado ADE",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado Ingeniería Informática",
+                "ects": "12"
+            },
+            {
+                "subject": "Aprendizaje Automático y Big Data",
+                "ects": "6"
+            },
+            {
+                "subject": "Desarrollo de Videojuegos Mediante Tecnologías Web",
+                "ects": "6"
+            },
+            {
+                "subject": "Inteligencia Artificial Aplicada al Control",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Tecnología Blockchain y Smart Contracts",
+                "ects": "6"
+            },
+            {
+                "subject": "Minería de Datos y el Paradigma Big Data",
+                "ects": "6"
+            },
+            {
+                "subject": "Programación de Aplicaciones para Dispositivos Móviles",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas Inteligentes",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas en Empresas (Informática)",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nDirección y administración de una empresa o\ncualquier tipo de organización, y en especial\nen el ámbito de las nuevas tecnologías y de las\ncomunicaciones.\n\nIntegración en cualquier área funcional de una\nempresa u organización mediana o grande y\ndesempeño de cualquier labor de gestión en ella\nencomendada (producción, marketing, recursos\nhumanos, finanzas, contabilidad...), tomando y\nejecutando decisiones.\n\nProyectos de gestión global o de áreas funcio-\nnales de la empresa.\n\nDiseño, desarrollo y evaluación de aplicaciones y\nsistemas informáticos, asegurando su fiabilidad,\nseguridad y calidad.\n\nCapacidad para comprender el entorno de una\norganización y sus necesidades en el ámbito\nde las tecnologías de la información y las co-\nmunicaciones.\n\nSeguridad en los sistemas informáticos.\n\nDirección de proyectos, servicios y sistemas\ninformáticos en todos los ámbitos, liderando\nsu puesta en marcha y su mejora continua y\nvalorando su impacto económico y social.\n\nElaboración del pliego de condiciones técnicas\nde una instalación informática que cumpla los\nestándares y normativas vigentes.\n\nDiseño, análisis e implementación de aplicacio-\nnes basadas en bases de datos y en Internet.",
+    "salidas_profesionales": "El graduado podrá desarrollar tareas de responsa-\nbilidad en puestos de dirección de los diferentes\ndepartamentos que forman la empresa y, en es-\npecial, en las empresas del ámbito de las nuevas\ntecnologías y de las comunicaciones. Además será\ncapaz de administrar y mantener aplicaciones, sis-\ntemas informáticos y redes de computadores, de\nprogramar aplicaciones de forma robusta, segura y\neficiente, y de dirigir proyectos, servicios y sistemas\ninformáticos. Podrá enfrentarse de forma resoluti-\nva a los problemas de las empresas, respondiendo\nconcretamente a los retos derivados de la sociedad\nde la información.\nLas salidas profesionales son:\n\nPuestos de responsabilidad en la dirección y la\ngerencia general, principalmente en centros de\ncálculo, centros de investigación y enseñanza,\nempresas de hardware y software, entidades\nfinancieras, empresas de telecomunicaciones,\nde tecnología y de seguridad, y consultoras in-\nformáticas.\n\nPuestos especializados en administración,\ncontabilidad, finanzas, fiscalidad, recursos hu-\nmanos, marketing, calidad, riesgos laborales,\nadministración y desarrollo de sistemas infor-\nmáticos, mantenimiento, etc.\n\nAuditor, consultor, asesor y formador de otras\nempresas en temas económicos y financieros,\nsistemas de calidad, implantación de sistemas\ninformáticos, y todos aquellos temas derivados\ndel uso de las nuevas tecnologías.\n\nDirección de proyectos de investigación y desa-\nrrollo en las tecnologías más avanzadas.\n\nCreación de una empresa tecnológica."
+}

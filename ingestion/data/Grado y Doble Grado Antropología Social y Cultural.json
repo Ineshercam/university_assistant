@@ -1,0 +1,223 @@
+{
+    "degree_title": "Antropología Social y Cultural",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Políticas y Sociología"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Antropología del Parentesco y de la Familia",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Política y Social del Mundo Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Antropología Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Ciencia Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Psicología Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías Antropológicas Clásicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías Sociológicas Clásicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Textos y Materiales Antropológicos",
+                "ects": "6"
+            },
+            {
+                "subject": "** Nuevo plan de estudios, curso 2025-",
+                "ects": "2026."
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Antropología del Conocimiento y de los Saberes Culturales",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología del Parentesco y Familia",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Cambio Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Epistemología de la Práctica Etnográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura Social de España",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías Antropológicas Actuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías Antropológicas Clásicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo de Campo 1: Observación y Entrevistas",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Antropología Cultural de España",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología del Género",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología de la Religión",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Simbólica",
+                "ects": "6"
+            },
+            {
+                "subject": "Diferencias Culturales y Derechos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Diseño de Proyecto de Investigación Etnográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Ecología y Procesos Culturales",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas de Investigación Social (Técnicas Cuantitativas)",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo de Campo 2: Análisis y Escritura Etnográfica",
+                "ects": "6"
+            },
+            {
+                "subject": "Una Optativa",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Nueve Optativas o Seis Optativas y Prácticas Externas",
+                "ects": "54"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología del Arte",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología de la Educación",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Lingüística",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología de la Salud y la Enfermedad",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología del Cuerpo y de las Emociones",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología del Turismo",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciencia, Tecnología y Sociedad",
+                "ects": "6"
+            },
+            {
+                "subject": "Cultura y Patrimonio Cultural",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía del Desarrollo",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Mundial de la Protesta",
+                "ects": "6"
+            },
+            {
+                "subject": "Nuevas Formas de Parentesco y Familia",
+                "ects": "6"
+            },
+            {
+                "subject": "Población y Sociedad",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología Social Cognitiva",
+                "ects": "6"
+            },
+            {
+                "subject": "Ritual y Creencia",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Investigación con Medios Audiovisuales",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas (Prácticum) *",
+                "ects": "18"
+            },
+            {
+                "subject": "* Con cupo de admisión. Sujeta a un proceso de preinscripción y selección previo. Cualquier curso",
+                "ects": "9"
+            }
+        ]
+    },
+    "conocimientos": "\nTeorías sociológicas de estructura y cambio\nsociales. Configuración y transformaciones de\nla estructura social en España.\n\nMétodos y técnicas cuantitativas en su aplica-\nción a la investigación social.\n\nModelos de estructura demográfica y su rela-\nción con los procesos dinámicos de la pobla-\nción.\n\nTeorías sobre acción colectiva e historia de la\nacción y cultura populares en Europa.\n\nSistemas y estructuras políticos, dinámicas del\npoder, incluyendo el clientelismo y la corrupción,\nasí como la participación ciudadana, la gober-\nnanza y la transparencia en distintos contextos.\n\nPapel de las organizaciones de clase y su cultu-\nra en la sociedad contemporánea.\n\nSelección y aplicación de técnicas de investi-\ngación y modelos analíticos según el objeto de\nestudio y su contexto.\n\nUso de nuevas tecnologías, medios audiovisua-\nles y plataformas digitales.\n\nTeorías relativas al concepto de cultura, diver-\nsidad social y cultural e historia de la antropo-\nlogía.\n\nActuación en la esfera de la cooperación para el\ndesarrollo y ayuda humanitaria.\n\nAsesoramiento a instituciones públicas y priva-\ndas con relación al desarrollo territorial y local.\n\nSistemas de parentesco y claves de variación\nen distintas sociedades y culturas.\n\nDiversidad cultural de los sistemas económicos.\n\nRelación entre religión, organización social y\npolítica en diferentes culturas.\n\nDiagnóstico y ayuda para comprender y resolver\nsituaciones de conflicto intercultural.\n\nRelación entre persona, cultura y medio y com-\nprensión de la ecología como proceso cultural.\n\nProcesos de construcción sociocultural del gé-\nnero y su relación con el trabajo, la dominación\ny la violencia.\n\nDerechos humanos, universalismo/relativismo\ncultural y social.\n\nParticipación en equipos de cooperación, desa-\nrrollo e intervención sociocultural.",
+    "salidas_profesionales": "\nAntropología social, investigación y consultoría.\n\nIntervención social y políticas públicas - Migra-\nción y derechos humanos.\n\nRelaciones interculturales - Mediación, diversidad\ny resolución de conflictos.\n\nCooperación internacional - ONG, desarrollo glo-\nbal y acción humanitaria.\n\nPatrimonio cultural y etnológico - Preservación,\nmuseos y difusión del patrimonio material e in-\nmaterial.\n\nPromoción y gestión cultural - Creación y gestión\nde eventos, exposiciones y proyectos culturales.\n\nComunicación y medios - Documentalismo, pro-\nducción cultural audiovisual y difusión digital.\n\nEmpresas y marketing - Estudios de consumi-\ndores, branding cultural y productos adaptados\na públicos diversos.\n\nMedio ambiente y territorio - Sostenibilidad, eco-\nlogía política, gestión del territorio y comunidades\nlocales.\n\nTecnología y sociedad - Análisis del impacto so-\ncial de la innovación, IA y transformación social."
+}

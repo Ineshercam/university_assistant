@@ -1,0 +1,247 @@
+{
+    "degree_title": "Ciencias Políticas",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Políticas y Sociología"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Ciencia Política I: Instituciones Políticas y Estructuras de Decisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Política y Social del Mundo Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Derecho Publico",
+                "ects": "6"
+            },
+            {
+                "subject": "La Formación de la Teoría Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Ciencia Política II: Actores y Procesos Políticos",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura Social y Procesos Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Política del Mundo Actual",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías y Formas Políticas Modernas y Contemporáneas",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Análisis de Datos en Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política I",
+                "ects": "6"
+            },
+            {
+                "subject": "Relaciones Internacionales I: Actores y Procesos",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Político Español",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de la Administración Pública",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Administrativo",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política II",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas de Investigación en Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Comparada",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema de la Unión Europea",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "CONTINUACIÓN Segundo semestre Economía Pública y Gestión Presupuestaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Marco Jurídico de las Relaciones Laborales",
+                "ects": "6"
+            },
+            {
+                "subject": "Partidos y Sistemas de Partidos",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas Públicas II: Análisis de Políticas Públicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas Políticos de Europa",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Nueve Optativas o Siete Optativas y Prácticas Externas",
+                "ects": "54"
+            },
+            {
+                "subject": "Segundo semestre Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Acción Exterior de España",
+                "ects": "6"
+            },
+            {
+                "subject": "Agentes Sociales, Conflicto y Negociación Colectiva",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Cultura de Paz y Resolución de Conflictos",
+                "ects": "6"
+            },
+            {
+                "subject": "Derechos Humanos y Ciudadanía",
+                "ects": "6"
+            },
+            {
+                "subject": "Desigualdad y Problemas Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Mundial y Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Género y Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de los Movimientos Políticos y Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Poder",
+                "ects": "6"
+            },
+            {
+                "subject": "Identidad Política y Territorio",
+                "ects": "6"
+            },
+            {
+                "subject": "Ideologías Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Innovación Democrática y Participación Multinivel",
+                "ects": "6"
+            },
+            {
+                "subject": "Intervención Administrativa en Sectores Económicos y Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Marketing Político y Campañas Electorales",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas Avanzadas para el Análisis Político",
+                "ects": "6"
+            },
+            {
+                "subject": "Movimientos Sociales y Globalización",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Exterior y de Seguridad de la Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Política y Comunicación",
+                "ects": "6"
+            },
+            {
+                "subject": "Política y Gobierno en la Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas Sostenibles y Transición Ecológica",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicosociología Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Relaciones Internacionales II: Estructuras y Dinámicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Sindicalismo Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas Políticos de América Latina",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Comunicación y Opinión Pública",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnica Parlamentaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Política Contemporánea",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías Políticas en la España Moderna y Contemporánea",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nComprensión de las principales teorías y\nenfoques metodológicos de la Ciencia Política.\n\nConocimiento de las teorías e ideologías\npolíticas contemporáneas.\n\nConocimiento de la estructura y funcionamiento\nde los sistemas políticos y de las\nadministraciones públicas.\n\nCompresión del comportamiento de los\nactores políticos y la dinámica de estos\nprocesos políticos, con especial énfasis en\nel comportamiento ciudadano, los valores\ndemocráticos y los derechos humanos.\n\nAproximación multidisciplinar a la política\ndesde una dimensión histórica y espacial de\nlos procesos políticos y sociales, abordando las\nbases y contexto económico de los fenómenos\npolíticos así como el marco legal de la actividad\nque realizan los estados y las administraciones\npúblicas.\n\nComprensión de la política internacional, así\ncomo la estructura y funcionamiento de la Unión\nEuropea.\n\nCapacidad de análisis de los principales\nconceptos y generalizaciones sobre la sociedad\ny sus procesos.\n\nCompetencia para manejar conceptos y\ntécnicas estadísticas de investigación social\n(cuantitativas y cualitativas) aplicadas a la\nexplicación de los fenómenos políticos.\nEl conocimiento teórico del Grado se ve comple-\nmentado con una aplicación práctica de los conoci-\nmientos en el aula así como la posibilidad de realizar\nprácticas curriculares y extracurriculares, tanto en el\nsector público como privado, además de proyectos\nde investigación. La UCM cuenta con convenios\ncon más de doscientas entidades que trabajan en\náreas cercanas a la Ciencia Política para el desarrollo\nprofesional de los estudiantes.",
+    "salidas_profesionales": "\nAnalistas políticos.\n\nDiseño, implementación y evaluación de\npolíticas públicas.\n\nEspecialistas en comunicación política.\n\nLíderes políticos.\n\nTécnicos en campañas electorales.\n\nExpertos en incidencia política.\n\nConsultores nacionales e internacionales.\n\nCooperantes internacionales.\n\nTécnicos superiores de las administraciones\npúblicas.\n\nGestores de organizaciones políticas y sociales.\n\nAgentes de desarrollo local y de igualdad.\n\nTécnicos de participación ciudadana.\n\nDocentes en enseñanzas medias y superiores.\n\nPersonal científico e investigador (en ámbitos\nnacionales e internacionales)."
+}

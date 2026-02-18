@@ -1,0 +1,259 @@
+{
+    "degree_title": "Educación Social",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Educación - Centro de Formación del Profesorado"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Didáctica e Innovación Curricular",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística Aplicada a las Ciencias Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia y Corrientes Internacionales de la Educación y la Cultura",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización y Gestión Institucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Orientación Educativa y Acción Tutorial",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicobiología",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología del Aprendizaje",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología del Desarrollo",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de la Educación",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Desarrollo Comunitario",
+                "ects": "6"
+            },
+            {
+                "subject": "Educación para la Cooperación y el Desarrollo Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Educación Permanente",
+                "ects": "6"
+            },
+            {
+                "subject": "Evaluación de Programas Socioeducativos",
+                "ects": "6"
+            },
+            {
+                "subject": "Modelos de Intervención Socioeducativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Planificación y Gestión de Programas Socioeducativos",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología Social de la Educación",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de los Ámbitos de Intervención Socioeducativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Fundamentos Antropológicos de la Educación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Intervención Socioeducativa en Problemas de Desadaptación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Metodología de la Animación Sociocultural",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos y Tendencias Sociales en las Sociedades Contemporáneas",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicología del Aprendizaje en Contextos Socioeducativos",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnologías de la Información y la Comunicación en Educación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticum I y II",
+                "ects": "6 + 6"
+            },
+            {
+                "subject": "Dos Optativas",
+                "ects": "12"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Educación y Mediación Intercultural",
+                "ects": "6"
+            },
+            {
+                "subject": "Estrategias Didácticas para la Equidad en las Relaciones Humanas",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Psicopatología",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticum III",
+                "ects": "30"
+            },
+            {
+                "subject": "Una Optativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "OPTATIVAS DE 2º,",
+                "ects": "3"
+            },
+            {
+                "subject": "ER Formación Complementaria: Teoría Socioeducativa Elaboración y Análisis de Informes de Investigación Socioeducativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Ética y Deontología del Educador Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de la Educación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Psicopatología de la Vida Adulta y la Vejez",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Inmigración",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Juventud",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología de la Pobreza y de la Marginación Social",
+                "ects": "6"
+            },
+            {
+                "subject": "Formación Complementaria: Intervención Socioeducativa Atención a Menores en Desamparo",
+                "ects": "6"
+            },
+            {
+                "subject": "Diversidad Cultural e Inclusión Socioeducativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Educación para la Ciudadanía Activa",
+                "ects": "6"
+            },
+            {
+                "subject": "Educación del Ocio y del Tiempo Libre",
+                "ects": "6"
+            },
+            {
+                "subject": "Educación de las Personas Mayores",
+                "ects": "6"
+            },
+            {
+                "subject": "Entrenamiento en Habilidades Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Social de Madrid desde una Perspectiva Educativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Intervención Educativa en Centros Penitenciarios",
+                "ects": "6"
+            },
+            {
+                "subject": "Intervención Psicológica en Personas con Necesidades Especiales",
+                "ects": "6"
+            },
+            {
+                "subject": "Medios Audiovisuales para el Empoderamiento y la Participación en Contextos Interculturales",
+                "ects": "6"
+            },
+            {
+                "subject": "Modificación de Conducta en Contextos Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Movimiento y Música como Herramientas de Intervención Socioeducativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Educativas para una Cultura de Paz y los Derechos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Prevención y Tratamiento Educativo de las Drogodependencias",
+                "ects": "6"
+            },
+            {
+                "subject": "Programas de Educación Compensatoria",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas Artísticas para Educadores Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas y Destrezas para la Resolución de Conflictos",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Trabajo Cooperativo y Comunicación en Grupos",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nDimensión social y educativa de la interacción\ncon los iguales y promoción de la participación\nen actividades colectivas, el trabajo cooperativo\ny la responsabilidad individual.\n\nDominio de estrategias de comunicación in-\nterpersonal en distintos contextos sociales y\neducativos.\n\nPromoción y colaboración en acciones sociales,\nespecialmente en aquellas con especial inciden-\ncia en la formación ciudadana.\n\nAnálisis crítico de las cuestiones más relevantes\nde la sociedad actual que afectan al: impacto\nsocial y educativo de los lenguajes audiovi-\nsuales, cambios en las relaciones de género e\nintergeneracionales, multiculturalidad e inter-\nculturalidad, discriminación e inclusión social y\ndesarrollo sostenible.\n\nValorar la importancia del liderazgo, el espíritu\nemprendedor, la creatividad y la innovación en\nel desempeño profesional.\n\nTrabajo en equipo y adquisición de destrezas\npara trabajar de manera interdisciplinar dentro\ny fuera de las organizaciones, desde la planifi-\ncación, el diseño, la intervención y la evaluación\nde diferentes programas o cualquier otra inter-\nvención que lo precisen.\n\nConocimiento y utilización de las estrategias de\ncomunicación oral y escrita y el uso de las TIC\nen el desarrollo profesional.\n\nSentido ético de la profesión.\n\nModelos de calidad como eje fundamental en el\ndesempeño profesional.\n\nCapacidad de trabajo independiente, impulsan-\ndo la organización y favoreciendo el aprendizaje\nautónomo.\n\nUso oral y escrito de una lengua extranjera en\nel desarrollo de la titulación.",
+    "salidas_profesionales": "\nComunidades autónomas y ayuntamientos: ser-\nvicios sociales.\n\nInstituciones penitenciarias.\n\nCentros hospitalarios.\n\nEspacios de personas mayores: residencias,\ncentros de día, centros de mayores.\n\nProgramas universitarios de mayores, progra-\nmas de ayuda a domicilio, asociaciones.\n\nUniversidades populares.\n\nCentros escolares.\n\nCentros de educación de personas adultas.\n\nCentros residenciales para niños en situación\nde riesgo social.\n\nAsociaciones y fundaciones de atención a in-\nmigrantes y población con dificultades de in-\nserción social.\n\nCentros de atención a personas con discapa-\ncidad.\n\nCentros de inserción sociolaboral.\n\nGestión cultural (animación sociocultural, ocio,\nludotecas, etc.).\n\nInstituciones de atención a las drogodependen-\ncias.\n\nCentros de mujeres, especialmente que han\nsufrido maltrato."
+}

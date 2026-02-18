@@ -1,0 +1,319 @@
+{
+    "degree_title": "Administración y Dirección de Empresas (ADE)",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Económicas y Empresariales"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Contabilidad Financiera I",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística Empresarial I",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Administración Financiera de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Dirección de Empresas",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas Empresariales I",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas Empresariales II",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Contabilidad Financiera II",
+                "ects": "6"
+            },
+            {
+                "subject": "Contabilidad de Gestión",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil I",
+                "ects": "3"
+            },
+            {
+                "subject": "Economía Española",
+                "ects": "3"
+            },
+            {
+                "subject": "Entorno Económico Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística Empresarial II",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas Financieras",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización y Diseño",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Fiscal I",
+                "ects": "3"
+            },
+            {
+                "subject": "Sociología Industrial y de la Empresa",
+                "ects": "3"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Análisis y Consolidación Contable",
+                "ects": "6"
+            },
+            {
+                "subject": "Decisiones de Financiación",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección de la Producción",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección de Recursos Humanos",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Marketing",
+                "ects": "6"
+            },
+            {
+                "subject": "Investigación Comercial",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Decisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Fiscal II",
+                "ects": "6"
+            },
+            {
+                "subject": "Valoración de Activos y Análisis de Inversiones",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Análisis y Planificación Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Comportamiento del Consumidor",
+                "ects": "6"
+            },
+            {
+                "subject": "Dirección Estratégica",
+                "ects": "6"
+            },
+            {
+                "subject": "Nueve Optativas o Seis Optativas y Prácticas Externas",
+                "ects": "36"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Inglés Empresarial",
+                "ects": "4"
+            },
+            {
+                "subject": "Sistema Financiero Español",
+                "ects": "4"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "Mención: Contabilidad Específicas Aplicaciones Informáticas para la Información Contable",
+                "ects": "4"
+            },
+            {
+                "subject": "Auditoría de Estados Financieros",
+                "ects": "4"
+            },
+            {
+                "subject": "Consolidación de Estados Financieros",
+                "ects": "4"
+            },
+            {
+                "subject": "Contabilidad de Sociedades",
+                "ects": "4"
+            },
+            {
+                "subject": "Recomendadas Análisis y Gestión de Riesgos",
+                "ects": "4"
+            },
+            {
+                "subject": "Contratos Mercantiles",
+                "ects": "4"
+            },
+            {
+                "subject": "Gobierno, Responsabilidad Social y Sostenibilidad de la Empresa",
+                "ects": "4"
+            },
+            {
+                "subject": "Planificación Fiscal",
+                "ects": "4"
+            },
+            {
+                "subject": "Mención: Dirección de Empresas Específicas Creación de Empresas",
+                "ects": "4"
+            },
+            {
+                "subject": "Dirección de la Calidad",
+                "ects": "4"
+            },
+            {
+                "subject": "Dirección de la Innovación y la Tecnología",
+                "ects": "4"
+            },
+            {
+                "subject": "Dirección Internacional de la Empresa",
+                "ects": "4"
+            },
+            {
+                "subject": "Recomendadas Contratación Laboral",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía Industrial Aplicada",
+                "ects": "4"
+            },
+            {
+                "subject": "Género y Diversidad en las Organizaciones",
+                "ects": "4"
+            },
+            {
+                "subject": "Gobierno, Responsabilidad Social y Sostenibilidad de la Empresa",
+                "ects": "4"
+            },
+            {
+                "subject": "Planificación Fiscal",
+                "ects": "4"
+            },
+            {
+                "subject": "Mención: Finanzas Específicas Economía Financiera del Trabajo Autónomo y de las Empresas de Participación",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía y Gestión Bancaria",
+                "ects": "4"
+            },
+            {
+                "subject": "Mercados Financieros Nacionales e Internacionales",
+                "ects": "4"
+            },
+            {
+                "subject": "Operaciones de Banca y Bolsa",
+                "ects": "4"
+            },
+            {
+                "subject": "Recomendadas Análisis y Gestión de Riesgos",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía Industrial Aplicada",
+                "ects": "4"
+            },
+            {
+                "subject": "Gobierno, Responsabilidad Social y Sostenibilidad de la Empresa",
+                "ects": "4"
+            },
+            {
+                "subject": "Planificación Fiscal",
+                "ects": "4"
+            },
+            {
+                "subject": "Mención: Marketing Específicas Comunicación Integrada de Marketing",
+                "ects": "4"
+            },
+            {
+                "subject": "Distribución Comercial",
+                "ects": "4"
+            },
+            {
+                "subject": "Marketing Internacional",
+                "ects": "4"
+            },
+            {
+                "subject": "Plan de Marketing",
+                "ects": "4"
+            },
+            {
+                "subject": "Recomendadas Análisis de Datos",
+                "ects": "4"
+            },
+            {
+                "subject": "Análisis Empresarial con Big Data",
+                "ects": "4"
+            },
+            {
+                "subject": "Contratos Mercantiles",
+                "ects": "4"
+            },
+            {
+                "subject": "Gobierno, Responsabilidad Social y Sostenibilidad de la Empresa",
+                "ects": "4"
+            },
+            {
+                "subject": "Sociología de las Organizaciones",
+                "ects": "4"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nDirección y administración de una empresa o\ncualquier tipo de organización, entendiendo su\nposición competitiva e institucional e identifican-\ndo sus fortalezas y debilidades.\n\nIntegración en cualquier área funcional de una\nempresa u organización mediana o grande y\ndesempeño de cualquier labor de gestión en ella\nencomendada (producción, marketing, recursos\nhumanos, finanzas, contabilidad...), tomando y\nejecutando decisiones.\n\nElaboración de diagnósticos aportando propues-\ntas de mejora organizativa, planes de incenti-\nvos y actividades propias de recursos humanos\n(análisis y valoración de puestos, contratación,\nretribución, desarrollo de carreras, etc.).\n\nTécnicas y herramientas de marketing para dar\nal consumidor lo que necesita y/o desea en cada\nmomento.\n\nAnálisis y planificación de inversiones, con pre-\nvisión de expectativas, interrelación y financia-\nción. Gestión y control del plan financiero de la\nempresa.\n\nInformación económico-financiera (estados con-\ntables) y su legislación.\n\nFuentes de información económica relevante y\nsu contenido. Elaboración de los datos obtenidos.\n\nValoración, a partir de los registros relevantes de\ninformación, de la situación y previsible evolución\nde una empresa.\n\nAsesoramiento sobre situaciones concretas de\nempresas y mercados.\n\nProyectos de gestión global o de áreas funciona-\nles de la empresa.\n\nEntorno económico nacional e internacional en el\nque desarrolla la empresa su actividad.",
+    "salidas_profesionales": "\nGestión y Dirección Empresarial: Gerente o direc-\ntor/a de empresas, emprendedor/a y/o creador/a\nde nuevas empresas, responsable del desarrollo\nde negocios internacionales.\n\nFinanzas y Contabilidad: Director/a financiero/a,\nanalista financiero/a, auditor/a, gestor/a de in-\nversiones, analista de riesgos.\n\nMarketing y Comercialización: Director/a de mar-\nketing y/o comercial, técnico en investigación de\nmercados.\n\nRecursos Humanos: Director/a de recursos hu-\nmanos, especialista en selección, formación y\ndesarrollo de talento.\n\nProducción y Logística: Director/a de operacio-\nnes, responsable de desarrollo de productos,\nresponsable de logística y/o de la cadena de\nsuministro, responsable de control de calidad,\nespecialista en compras.\n\nConsultoría y Asesoramiento: Consultor/a es-\ntratégico/a, consultor/a en mejora de procesos,\nasesor/a en creación de empresas y startups.\n\nSector Público: Técnico/a en administraciones\npúblicas, responsable y/o asesor/a en políticas\neconómicas y empresariales.\n\nDocencia e Investigación: Docente o investiga-\ndor/a o en temas económicos y empresariales."
+}

@@ -1,0 +1,223 @@
+{
+    "degree_title": "Arqueología",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Geografía e Historia"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Antropología Cultural",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología del Paleolítico",
+                "ects": "6"
+            },
+            {
+                "subject": "Evolución Humana",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Antigua I",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Arqueología",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Arqueología del Neolítico y la Edad de Bronce",
+                "ects": "6"
+            },
+            {
+                "subject": "Epistemología e Historia de las Ciencias",
+                "ects": "6"
+            },
+            {
+                "subject": "Geografía Física",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Antigua II",
+                "ects": "6"
+            },
+            {
+                "subject": "Informática para Arqueología",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Tercer semestre Geografía Humana",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Medieval I",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma (Inglés)",
+                "ects": "6"
+            },
+            {
+                "subject": "Paleoecología",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Arqueológica",
+                "ects": "6"
+            },
+            {
+                "subject": "Cuarto semestre Arqueología Cuantitativa",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión del Patrimonio Arqueológico",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Contemporánea",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Medieval II",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Moderna",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Quinto semestre Arqueología de Grecia",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología Profesional: Ética y Procedimientos",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueometría I: Reconstrucción Medioambiental y Geocronológica",
+                "ects": "6"
+            },
+            {
+                "subject": "Estudio de Materiales Arqueológicos",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia de América Prehispánica",
+                "ects": "6"
+            },
+            {
+                "subject": "Sexto semestre Arqueología de la Edad de Hierro",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología de Egipto y del Próximo Oriente",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueometría II: Analítica",
+                "ects": "6"
+            },
+            {
+                "subject": "Formación y Recuperación del Registro Arqueológico",
+                "ects": "6"
+            },
+            {
+                "subject": "Topografía y Dibujo Arqueológico",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Séptimo semestre Arqueología Medieval",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología de Roma",
+                "ects": "6"
+            },
+            {
+                "subject": "Tres Optativas",
+                "ects": "18"
+            },
+            {
+                "subject": "Octavo semestre Tres Optativas",
+                "ects": "18"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Antropología Física",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología Andina y Mesoamericana",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología de las Colonizaciones en el Mediterráneo Antiguo",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología de Género",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología del Paisaje",
+                "ects": "6"
+            },
+            {
+                "subject": "Arqueología de los Pueblos Prerromanos de la Península Ibérica",
+                "ects": "6"
+            },
+            {
+                "subject": "Arte Prehistórico",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciudad y Territorio en la Antigüedad Grecorromana",
+                "ects": "6"
+            },
+            {
+                "subject": "Epigrafía y Numismática",
+                "ects": "6"
+            },
+            {
+                "subject": "Iconografía Clásica",
+                "ects": "6"
+            },
+            {
+                "subject": "Museología",
+                "ects": "6"
+            },
+            {
+                "subject": "Paleontología y Tafonomía",
+                "ects": "6"
+            },
+            {
+                "subject": "Prehistoria Tardía del Mediterráneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Religiones del Mundo Antiguo",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nInterpretar el registro arqueológico, en su diver-\nsidad interdisciplinar, con el fin de convertirlo en\nconocimiento social e histórico.\n\nGestionar el patrimonio arqueológico en sus dis-\ntintas vertientes de conocimiento, planificación,\ncontrol y difusión.\n\nInvestigar los paisajes y yacimientos arqueológi-\ncos con las técnicas modernas de prospección,\nexcavación y análisis espacial.\n\nAplicar los conocimientos adquiridos a los\ndiversos campos de actividad profesional: la\npropia investigación y la docencia y la práctica\nprofesional, incluyendo la gestión y la difusión\nde los bienes.\n\nSaber qué es la Arqueología, la teoría arqueoló-\ngica y los procesos históricos.\n\nMantener una actitud innovadora y adaptable a\nmuy distintos ambientes.\n\nPracticar la profesión con responsabilidad ética.\n\nDesarrollar aptitudes, habilidades y destrezas\npropias de las exigencias impuestas en el pre-\nsente en el mundo laboral.\n\nAdquirir y mantener el rigor científico propio\nde la formación básica de una historiadora o\nhistoriador.\n\nConocer y trabajar sobre los procesos de cam-\nbio y de continuidad de la humanidad en una\nperspectiva diacrónica, desde la Prehistoria\nhasta el mundo actual.\n\nConocer la estructura económica, social e\nideológica de las sociedades cuyos restos se\nestudian.\n\nManejar destrezas procedentes de distintas\ndisciplinas científicas que proporcionan datos\nparticulares sobre la naturaleza de las culturas\n-Antropología- o bien de los objetos y yacimien-\ntos arqueológicos: Geología, Geografía, Química,\nZoología, etc.\n\nControlar, desde una perspectiva crítica, los\nproblemas y debates a los que se enfrenta la\nArqueología en la actualidad.\n\nTransmitir a distintos tipos de público la infor-\nmación así conseguida, así como la metodolo-\ngía empleada en ello.",
+    "salidas_profesionales": "Los sectores en los que en la actualidad se trabaja\nen nuestro país en Arqueología son fundamental-\nmente la Enseñanza/Investigación y la Gestión, tan-\nto desde la administración y museos, como desde\nlas empresas.\nDe acuerdo con esto, las salidas profesionales son\nmuy variadas:\n\nInvestigación arqueológica.\n\nArqueología de gestión.\n\nGestión del patrimonio arqueológico.\n\nMuseología de la Arqueología.\n\nEnseñanza.\n\nEmpresas de evaluación ambiental.\n\nMedios de comunicación.\n\nRecursos humanos.\n\nAdministraciones públicas.\n\nCooperación al desarrollo.\n\nTurismo cultural."
+}

@@ -1,0 +1,324 @@
+{
+    "degree_title": "Economía / Matemáticas y Ciencia de Datos",
+    "degree_type": "Doble Grado",
+    "faculties": [
+        "Facultad de Ciencias Económicas y Empresariales",
+        "Facultad de Ciencias Matemáticas"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Álgebra Lineal",
+                "ects": "18"
+            },
+            {
+                "subject": "Análisis de Variable Real",
+                "ects": "18"
+            },
+            {
+                "subject": "Contabilidad para el Análisis",
+                "ects": "3"
+            },
+            {
+                "subject": "Contabilidad Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Mundial",
+                "ects": "6"
+            },
+            {
+                "subject": "Finanzas",
+                "ects": "3"
+            },
+            {
+                "subject": "Matemáticas Básicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía I",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Cálculo Diferencial",
+                "ects": "6"
+            },
+            {
+                "subject": "Cálculo Integral",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Elementos de Ecuaciones Diferenciales Ordinarias",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística",
+                "ects": "6"
+            },
+            {
+                "subject": "Física: Modelos Aplicados a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Geometría Lineal",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Informática",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía I",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Economía Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Probabilidad",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Análisis Matemático para Ciencia de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Española",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Pública",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructuras Algebraicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Investigación Operativa (en inglés)",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía II",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos Numéricos",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía II",
+                "ects": "6"
+            },
+            {
+                "subject": "Modelos Dinámicos",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización Económica Internacional",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Álgebra Matricial",
+                "ects": "6"
+            },
+            {
+                "subject": "Ampliación de Probabilidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Monetaria y Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia del Pensamiento Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Inferencia Estadística",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía III",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía III",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Procesos Estocásticos",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de Juegos y Optimización",
+                "ects": "6"
+            }
+        ],
+        "QUINTO CURSO": [
+            {
+                "subject": "Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos Computacionales en Estadística",
+                "ects": "6"
+            },
+            {
+                "subject": "Modelos Multivariantes en Ciencia de Datos",
+                "ects": "6"
+            },
+            {
+                "subject": "Series Temporales",
+                "ects": "6"
+            },
+            {
+                "subject": "Una Optativa A1 o A",
+                "ects": "26"
+            },
+            {
+                "subject": "Una Optativa B1 o B",
+                "ects": "26"
+            },
+            {
+                "subject": "Cuatro Optativas de Mención",
+                "ects": "24"
+            }
+        ],
+        "SEXTO CURSO": [
+            {
+                "subject": "Prácticas Externas o Tres Optativas",
+                "ects": "12"
+            },
+            {
+                "subject": "Trabajo Fin de Grado Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado Matemáticas y Ciencia de Datos",
+                "ects": "12"
+            },
+            {
+                "subject": "Aplicaciones de los Procesos Estocásticos (B1)",
+                "ects": "6"
+            },
+            {
+                "subject": "Aprendizaje Estadístico Automático: Machine Learning (A1)",
+                "ects": "6"
+            },
+            {
+                "subject": "Datos Masivos: Big Data (A2)",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Muestreo (B2)",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención en Análisis Económico Análisis Microeconómico Avanzado",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización Industrial",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría del Crecimiento Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención en Economía Monetaria y Financiera Economía Monetaria. Teoría Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Financiero Español y Comparado",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera I",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera II",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía y Género",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía de los Recursos Naturales",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía de la Regulación",
+                "ects": "4"
+            },
+            {
+                "subject": "Finanzas Internacionales",
+                "ects": "4"
+            },
+            {
+                "subject": "Investigación Comercial",
+                "ects": "4"
+            },
+            {
+                "subject": "Sociología y Estructura Social",
+                "ects": "4"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "Este doble grado proporcionará a sus estudiantes\nconocimientos sobre:\n\nElementos de álgebra, cálculo, probabilidad y\nestadística.\n\nAnálisis microeconómico y fundamentos forma-\nles de las decisiones individuales.\n\nAnálisis macroeconómico del comportamiento\nde los agentes agregados.\n\nMétodos cuantitativos para el análisis econó-\nmico.\n\nLa realidad económica nacional e internacional,\nsectores productivos, sector público, institucio-\nnes económicas e historia económica.\n\nElementos de gestión empresarial, incluyendo\nfundamentos de contabilidad, finanzas, organi-\nzación de empresas y marketing. Ordenamiento\njurídico básico.\n\nFuentes de información económica relevantes\npara la toma de decisiones.\n\nProponer, analizar, validar e interpretar modelos\nde situaciones en las que se presenten fenóme-\nnos estocásticos utilizando las herramientas\nestadísticas y matemáticas más adecuadas.\n\nUtilizar aplicaciones informáticas de análisis\nestadístico, cálculo numérico y simbólico, visua-\nlización gráfica, optimización y otras para resol-\nver problemas de Ciencia de Datos y Economía.\n\nUtilizar herramientas de búsqueda de recursos\nbibliográficos en Ciencia de Datos.",
+    "salidas_profesionales": "\nAnalista y asesor técnico en entidades públicas,\nempresas privadas y organismos internacio-\nnales.\n\nTécnico superior de las administraciones públi-\ncas y organismos reguladores y supervisores.\n\nServicios de estudios económicos.\n\nFinanzas.\n\nBanca.\n\nEstudios de mercado.\n\nEstadística oficial.\n\nEncuestas y sondeos.\n\nControl de calidad.\n\nDocencia e investigación."
+}

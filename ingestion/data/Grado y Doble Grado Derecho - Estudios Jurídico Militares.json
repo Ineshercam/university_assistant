@@ -1,0 +1,257 @@
+{
+    "degree_title": "Derecho / Estudios Jurídico Militares",
+    "degree_type": "Doble Grado",
+    "faculties": [
+        "Facultad de Derecho"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Derecho Constitucional: Constitución y Fuentes del Ordenamiento Jurídico. Justicia Constitucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Romano",
+                "ects": "6"
+            },
+            {
+                "subject": "Formación del Derecho Común",
+                "ects": "3"
+            },
+            {
+                "subject": "Habilidades Básicas para el Jurista",
+                "ects": "3"
+            },
+            {
+                "subject": "Historia del Derecho Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Economía",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Sistema Jurídico",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Civil: Derecho de la Persona y de las Relaciones Familiares",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Organización Constitucional y Territorial del Estado",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Público",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía del Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Derecho Penal y Consecuencias Jurídicas del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización de las Fuerzas Armadas",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Civil: Teoría General de la Obligación y del Contrato",
+                "ects": "6"
+            },
+            {
+                "subject": "Derechos Fundamentales y Función Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia e Instituciones de la Unión Europea",
+                "ects": "3"
+            },
+            {
+                "subject": "Instituciones Internacionales para la Seguridad, la Defensa y el Mantenimiento de la Paz",
+                "ects": "6"
+            },
+            {
+                "subject": "Presupuesto y Fuerzas Armadas",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Jurídica del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Contabilidad para Juristas",
+                "ects": "3"
+            },
+            {
+                "subject": "Derecho Administrativo: Fundamentos, Fuentes, Sujetos y Potestades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Contratos y Responsabilidad Civil",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Penal: Parte Especial",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: Parte General",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Unión Europea",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "CONTINUACIÓN Segundo semestre Derecho Administrativo: Medios, Responsabilidad y Control",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Economía del Matrimonio y Sucesiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Disciplinario Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Humanitario",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: El Proceso Penal",
+                "ects": "6"
+            },
+            {
+                "subject": "Instituciones de Derecho Tributario",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Primer semestre Contratación y Fuerzas Armadas",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Empresa, Valores y Contratación",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Instituciones y Relaciones Colectivas del Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Inteligencia, Ciberdefensa y Seguridad de la Información en el Ámbito Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Tributario Español",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Internacional Privado: Fundamentos y Patrimonio",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Marítimo Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Sociedades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Contrato de Trabajo y Procesal Laboral",
+                "ects": "6"
+            },
+            {
+                "subject": "Régimen de los Bienes de Titularidad Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Régimen Jurídico del Personal de las Fuerzas Armadas",
+                "ects": "6"
+            }
+        ],
+        "QUINTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Aeronáutico Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Privado de Personas y Familia",
+                "ects": "3"
+            },
+            {
+                "subject": "Derecho Mercantil: Mercados Financieros y Concursal",
+                "ects": "6"
+            },
+            {
+                "subject": "Seguridad Social de las Fuerzas Armadas",
+                "ects": "6"
+            },
+            {
+                "subject": "Una optativa de las ofertadas por Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Una optativa de las ofertadas por Estudios Jurídico Militares",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Notarial Militar",
+                "ects": "6"
+            },
+            {
+                "subject": "Una optativa de las ofertadas por Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Dos optativas de las ofertadas por Estudios Jurídico Militares",
+                "ects": "12"
+            },
+            {
+                "subject": "Trabajo Fin de Grado de Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado de Estudios Jurídico Militares",
+                "ects": "6"
+            },
+            {
+                "subject": "Optativas ofertadas por Derecho Derecho de la Inmigración",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de las Nuevas Tecnologías",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos Romanísticos del Derecho Privado Europeo",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nFundamentos históricos, filosóficos y constitu-\ncionales del ordenamiento jurídico.\n\nPrincipales instituciones públicas y privadas de\nnuestro ordenamiento jurídico en su génesis, en\nsu individualidad y en su conjunto.\n\nAnálisis crítico del ordenamiento jurídico.\n\nFuentes jurídicas:\n• Manejo con apoyo en las TIC y en las bases\nde datos de legislación y jurisprudencia.\n• Identificación y aplicación de las fuentes ju-\nrídicas de relevancia y de los principios ge-\nnerales del derecho a una cuestión concreta.\n\nConocimientos teóricos y aplicaciones prácticas\nde las distintas disciplinas que integran nuestro\nsistema jurídico (Derecho Administrativo, Civil,\nComunitario, Constitucional, Eclesiástico del\nEstado, Financiero y Tributario, Internacional\nPúblico y Privado, Mercantil, Penal, Procesal y\nDerecho del Trabajo).\n\nInterrelaciones entre la Economía y el Derecho.\n\n-\nAnálisis de la realidad social desde la perspec\ntiva del Derecho como sistema regulador de las\nrelaciones sociales.\n\nNegociación, argumentación y mediación.\n\nLectura, interpretación y redacción de textos\nde naturaleza jurídica, desde una perspectiva\ninterdisciplinar.\n\nFormación del alumnado desde la perspectiva\njurídica y académica y, no menos importante,\n-\ndesde el ámbito militar, quienes participarán ac\ntivamente en el proceso aportando su necesaria\nvisión no sólo jurídica -por su idónea formación\nal respecto- sino también militar, necesaria para\nque los egresados alcancen las competencias\ny habilidades en las que consiste la titulación.\n\n-\nFormación en Derecho Militar que permita res\nponder a la demanda que la sociedad actual\nexige. Consecuentemente, la profesionalización\ny la inserción de nuestras Fuerzas Armadas en\nla sociedad civil, coherente con la función de\ngarantizar la integridad territorial y la seguridad\nen un estado democrático de Derecho.",
+    "salidas_profesionales": "Con la formación complementaria que en su caso\npuede exigir la normativa en vigor, posibilitará el\nacceso a profesiones tales como:\n\nAbogado y procurador de los tribunales.\n\nAgente de la propiedad industrial.\n\nAuditor de cuentas.\n\nGestor administrativo.\n-\nPrevia superación del correspondiente concur\nso-oposición u oposición:\n\n-\nJuez, fiscal, abogado del estado, secretario ju\ndicial.\n\nLetrado de distintos cuerpos de la administra-\nción pública (Consejo de Estado, Cortes Gene-\nrales, tribunales de cuentas, comunidades autó-\nnomas, parlamentos regionales, etc.).\n\nNotario, registrador de la propiedad y mercantil.\n\nDiplomático, funcionario de la Unión Europea y\nde otros organismos internacionales.\n\nInspector de hacienda, inspector de trabajo.\n\nTécnico superior de la administración pública\n-\n(estatal, autonómica y local), secretario inter\nventor de la administración local.\n\nCuerpo jurídico militar.\n\nCuerpo de Intervención.\n\nCuerpo de Intendencia.\n\n-\nOtras profesiones vinculadas a la función pú\nblica.\nEmpresas nacionales e internacionales del sector\nindustrial, comercial, banca, seguros, cooperación\nal desarrollo, etc., en distintas áreas:\n\nPersonal y recursos humanos.\n\nAsesoría jurídica.\n\n-\nAsesoramiento técnico y jurídico en el ámbi\nto del Sector Público y Privado en cuestiones\nrelacionadas con la compleja realidad jurídico\nmilitar.\n\nAsesoría fiscal y tributaria.\n\nComercio exterior.\nDocencia e investigación."
+}

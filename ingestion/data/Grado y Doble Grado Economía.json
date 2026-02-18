@@ -1,0 +1,335 @@
+{
+    "degree_title": "Economía",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Ciencias Económicas y Empresariales"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Contabilidad Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía de la Empresa",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística I",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Económica I",
+                "ects": "6"
+            },
+            {
+                "subject": "Idioma Moderno",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía I",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas I",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas II",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía I",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Contabilidad Analítica",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Mundial",
+                "ects": "6"
+            },
+            {
+                "subject": "Estadística II",
+                "ects": "6"
+            },
+            {
+                "subject": "Finanzas",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Económica II",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía II",
+                "ects": "6"
+            },
+            {
+                "subject": "Matemáticas III",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos de Economía Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Microeconomía II",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Econometría",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Española",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Monetaria y Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Pública",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía III",
+                "ects": "8"
+            },
+            {
+                "subject": "Microeconomía III",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización Económica Internacional",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Económica",
+                "ects": "6"
+            },
+            {
+                "subject": "Una Optativa Libre",
+                "ects": "4"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Siete Optativas de Mención",
+                "ects": "42"
+            },
+            {
+                "subject": "Tres Optativas Libres o Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Análisis Económico Análisis Microeconómico Avanzado",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Organización Industrial",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría del Crecimiento Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de Juegos y Optimización",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Economía Aplicada Crecimiento Económico",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Industrial",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía de la Innovación",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Regional",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de Juegos y Optimización",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Economía Monetaria y Financiera Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Monetaria. Teoría y Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Financiero Español y Comparado",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera I",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Financiera II",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de Juegos y Optimización",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Economía Mundial Comercio y Finanzas Internacionales",
+                "ects": "6"
+            },
+            {
+                "subject": "Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía del Desarrollo",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Internacional Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política Mundial",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía de la Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Macroeconomía Avanzada",
+                "ects": "6"
+            },
+            {
+                "subject": "Mención: Economía Pública Econometría Aplicada",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía del Gasto Público",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía de la Imposición",
+                "ects": "6"
+            },
+            {
+                "subject": "Federalismo Fiscal",
+                "ects": "6"
+            },
+            {
+                "subject": "Fiscalidad Empresarial",
+                "ects": "6"
+            },
+            {
+                "subject": "Gestión Pública",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de Juegos y Optimización",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía y Género",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía de los Recursos Naturales",
+                "ects": "4"
+            },
+            {
+                "subject": "Economía de la Regulación",
+                "ects": "4"
+            },
+            {
+                "subject": "Finanzas Internacionales",
+                "ects": "4"
+            },
+            {
+                "subject": "Fundamentos de Marketing",
+                "ects": "4"
+            },
+            {
+                "subject": "Historia del Pensamiento Económico",
+                "ects": "4"
+            },
+            {
+                "subject": "Investigación Comercial",
+                "ects": "4"
+            },
+            {
+                "subject": "La Economía Contemporánea en Perspectiva Histórica",
+                "ects": "4"
+            },
+            {
+                "subject": "Sociología y Estructura Social",
+                "ects": "4"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "12"
+            },
+            {
+                "subject": "* La oferta de optativas libres puede variar cada curso académico. Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nFundamentos formales de la decisión individual,\na través del análisis microeconómico.\n\nAnálisis macroeconómico del comportamiento\nde los agentes agregados.\n\nModelización econométrica, a través de mode-\nlos univariantes o con variables explicativas.\n\nRealidad económica nacional e internacional,\nsectores productivos.\n\nSector público e instituciones económicas.\n\nElementos fundamentales del entorno econó-\nmico nacional e internacional.\n\nInformes de asesoramiento sobre empresas,\norganismos, sectores, países o regiones.\n\nFuentes de información económica relevante\npara la toma de decisiones.\n\nInstituciones económicas.\n\nHistoria económica, nacional e internacional.\n\nElementos de gestión empresarial, incluyendo\nfundamentos de contabilidad, finanzas, organi-\nzación de empresas y marketing.\n\nOrdenamiento jurídico básico e instituciones\nde derecho.\n\nElementos básicos de álgebra lineal, cálculo di-\nferencial e integral, y optimización matemática.\n\nFundamentos de estadística descriptiva, cálculo\nde probabilidad e inferencia.",
+    "salidas_profesionales": "\nAdministración Pública: técnicos comerciales\ny economistas del estado, técnico e inspector\nde instituciones de crédito, técnico superior de\nla administración general, estadísticos faculta-\ntivos, interventores tesoreros de la administra-\nción local, auditores del Tribunal de Cuentas, ins-\npectores de entidades de crédito del Banco de\nEspaña, cuerpo de intendencia del ejército, etc.\n\nSector privado en PYMES o en grandes empre-\nsas: bancos, consultoras, mutuas, asesorías o\nsociedades mercantiles.\n\nOrganismos internacionales: Fondo Moneta-\nrio Internacional, Banco Mundial, Organización\npara la Cooperación y el Desarrollo Económico,\ninstituciones de la Unión Europea, en ONG, etc.\n\nDocencia e investigación: en escuelas de nego-\ncios, centros universitarios públicos o privados,\nenseñanza secundaria, bachillerato o formación\nprofesional.\n\nEjercicio libre de la profesión: ejerciendo como\nconsultores fiscales o contables, o trabajando\nen áreas de servicios de estudios de bancos o\ninstituciones públicas."
+}

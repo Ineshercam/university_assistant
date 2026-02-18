@@ -1,0 +1,183 @@
+{
+    "degree_title": "Ciencia y Tecnología de los Alimentos",
+    "degree_type": "Grado",
+    "faculties": [
+        "Facultad de Veterinaria"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Biología",
+                "ects": "6"
+            },
+            {
+                "subject": "Bioquímica",
+                "ects": "6"
+            },
+            {
+                "subject": "Física",
+                "ects": "6"
+            },
+            {
+                "subject": "Fisiología",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Bromatología",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Química y Análisis Químico",
+                "ects": "12"
+            },
+            {
+                "subject": "Matemáticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Microbiología",
+                "ects": "6"
+            },
+            {
+                "subject": "Producción de Materias Primas",
+                "ects": "6"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Alimentación y Cultura",
+                "ects": "3"
+            },
+            {
+                "subject": "Ciencia y Análisis de Aguas de Consumo y Bebidas",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciencia y Análisis de Alimentos de Origen Animal",
+                "ects": "6"
+            },
+            {
+                "subject": "Ciencia y Análisis de Alimentos de Origen Vegetal",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía, Gestión y Mercadotecnia en la Empresa Alimentaria",
+                "ects": "9"
+            },
+            {
+                "subject": "Epidemiología y Control Sanitario en la Producción Primaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Ingeniería Química",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Toxicología",
+                "ects": "6"
+            },
+            {
+                "subject": "Microbiología Industrial y Biotecnología",
+                "ects": "6"
+            },
+            {
+                "subject": "Química y Bioquímica de los Alimentos",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "Calidad Microbiológica de los Alimentos",
+                "ects": "6"
+            },
+            {
+                "subject": "Envasado de Alimentos",
+                "ects": "6"
+            },
+            {
+                "subject": "Higiene y Seguridad Alimentaria",
+                "ects": "12"
+            },
+            {
+                "subject": "Ingeniería Alimentaria",
+                "ects": "12"
+            },
+            {
+                "subject": "Nutrición Humana y Dietética",
+                "ects": "12"
+            },
+            {
+                "subject": "Procesos de Conservación y Transformación de los Alimentos",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología de los Alimentos de Origen Vegetal",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Gestión de la Calidad en la Industria Alimentaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Normalización y Legislación Sanitaria",
+                "ects": "3"
+            },
+            {
+                "subject": "Proyectos",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología de los Alimentos de Origen Animal",
+                "ects": "9"
+            },
+            {
+                "subject": "Prácticas Externas",
+                "ects": "9"
+            },
+            {
+                "subject": "Trabajo Fin de Grado",
+                "ects": "9"
+            },
+            {
+                "subject": "Aguas de Consumo Mineromedicinales",
+                "ects": "6"
+            },
+            {
+                "subject": "Dietética Aplicada a la Industria Alimentaria",
+                "ects": "6"
+            },
+            {
+                "subject": "Docencia Interdisciplinar en Industrias Alimentarias",
+                "ects": "6"
+            },
+            {
+                "subject": "Nuevos Alimentos y Productos Dietéticos",
+                "ects": "6"
+            },
+            {
+                "subject": "Restauración Colectiva",
+                "ects": "6"
+            },
+            {
+                "subject": "Técnicas de Producción Animal",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología Ambiental",
+                "ects": "6"
+            },
+            {
+                "subject": "Tecnología Enológica y de otras Bebidas Alcohólicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Cualquier curso",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nEl origen, composición, valor nutritivo, funcio-\nnalidad y propiedades físicas, químicas y sen-\nsoriales de los alimentos y sus componentes.\n\nToma de muestras y técnicas de análisis de\nlos alimentos, materias primas, ingredientes y\naditivos alimentarios.\n\nPrincipios y técnicas actuales de producción,\nelaboración, envasado, conservación, alma-\ncenamiento, transporte y distribución de los\nalimentos.\n\nMétodos y aplicaciones de la biotecnología en\nla industria alimentaria.\n\nControl de los procesos en la industria alimen-\ntaria.\n\nDiseño y elaboración de nuevos procesos y\nproductos para satisfacer las necesidades del\nmercado.\n\nCausas y manifestaciones del deterioro de los\nalimentos y factores que influyen en los proce-\nsos de alteración.\n\nRiesgos sanitarios relacionados con el consumo\nde alimentos.\n\nMedidas de prevención y control para garantizar\nalimentos seguros, genuinos, nutritivos y ade-\ncuados para el consumo humano.\n\nTrazabilidad en las distintas etapas de la cadena\nalimentaria.\n\nFormación de manipuladores de alimentos.\n\nLegislación alimentaria.\n\nSistemas de calidad aplicables a las industrias\ny establecimientos alimentarios: calidad de pro-\ncesos y productos, gestión medioambiental de\nlas industrias y prevención de riesgos laborales.\n\nGestión empresarial de las industrias y estable-\ncimientos alimentarios.\n\nPublicidad y marketing alimentario.\n\nRelación entre los hábitos alimentarios y los\ncondicionantes culturales, así como su evolu-\nción histórica.\n\nRelación entre la alimentación, la nutrición y el\nestado de salud.\n\nNecesidades nutricionales del organismo hu-\nmano en diferentes etapas fisiológicas y situa-\nciones de la vida.\n\nConsumo racional de alimentos de acuerdo a\npautas saludables.",
+    "salidas_profesionales": "El Grado en Ciencia y Tecnología de los Alimentos\ntiene por objetivo formar profesionales cualificados\npara proporcionar a la sociedad alimentos seguros,\nnutritivos, de alta calidad sensorial, adecuados a las\nnecesidades y hábitos de consumo de los distintos\ngrupos de población y acordes con la legislación\nvigente. Los graduados en Ciencia y Tecnología de\nlos Alimentos están capacitados para desarrollar\nsu profesión en todos los ámbitos de la industria\nalimentaria y la alimentación.\nLos graduados en Ciencia y Tecnología de los Ali-\nmentos pueden desarrollar su profesión en múltiples\nentornos de trabajo, entre los que destacan:\n\nIndustrias alimentarias (producción, tecnología,\nhigiene, investigación, desarrollo, análisis y con-\ntrol de la calidad y seguridad de los alimentos).\n\nAdministraciones públicas (higiene alimentaria,\ncontrol de los alimentos, salud pública y nor-\nmalización).\n\nSector privado (asesoría, consultoría, comercia-\nlización y estrategias de mercado).\n\nÁmbito educativo (formación de manipuladores\nde alimentos, formación profesional, educación\npara la salud)."
+}

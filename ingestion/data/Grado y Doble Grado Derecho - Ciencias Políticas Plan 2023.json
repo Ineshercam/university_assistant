@@ -1,0 +1,286 @@
+{
+    "degree_title": "Derecho / Ciencias Políticas",
+    "degree_type": "Doble Grado",
+    "faculties": [
+        "Facultad de Derecho",
+        "Facultad de Ciencias Políticas y Sociología"
+    ],
+    "plan_estudios": {
+        "PRIMER CURSO": [
+            {
+                "subject": "Primer semestre Ciencia Política: Instituciones y Estructuras de Decisión",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Constitución y Fuentes del Ordenamiento Jurídico. Justicia Constitucional",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Romano",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política I",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción al Sistema Jurídico",
+                "ects": "6"
+            },
+            {
+                "subject": "Introducción a la Sociología",
+                "ects": "6"
+            },
+            {
+                "subject": "La Formación del Derecho Común Europeo",
+                "ects": "3"
+            },
+            {
+                "subject": "Segundo semestre Ciencia Política: Actores y Procesos Políticos",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Organización Constitucional y Territorial del Estado",
+                "ects": "6"
+            },
+            {
+                "subject": "Economía Política II",
+                "ects": "6"
+            },
+            {
+                "subject": "Estructura Social y Procesos Sociales",
+                "ects": "6"
+            },
+            {
+                "subject": "Filosofía del Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos de Derecho Moderno y Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "Habilidades Básicas del Jurista",
+                "ects": "3"
+            }
+        ],
+        "SEGUNDO CURSO": [
+            {
+                "subject": "Primer semestre Análisis de Datos en Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Derecho de la Persona y de las Relaciones Familiares",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Constitucional: Derechos Fundamentales y su Protección",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Internacional Público",
+                "ects": "6"
+            },
+            {
+                "subject": "Fundamentos del Derecho Penal y Consecuencias Jurídicas del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Política y Social del Mundo Contemporáneo",
+                "ects": "6"
+            },
+            {
+                "subject": "La Formación de la Teoría Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Civil: Teoría General de la Obligación y del Contrato",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: Parte General",
+                "ects": "6"
+            },
+            {
+                "subject": "Historia Política del Mundo Actual",
+                "ects": "6"
+            },
+            {
+                "subject": "Métodos y Técnicas de Investigación en Ciencia Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría Jurídica del Delito",
+                "ects": "6"
+            },
+            {
+                "subject": "Teorías y Formas Políticas Modernas y Contemporáneas",
+                "ects": "6"
+            }
+        ],
+        "TERCER CURSO": [
+            {
+                "subject": "CONTINUACIÓN Segundo semestre Derecho Administrativo: la Actividad de la Administración",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Derechos Reales",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Presupuestario Español y de la Unión Europea",
+                "ects": "3"
+            },
+            {
+                "subject": "Instituciones de Derecho Tributario",
+                "ects": "6"
+            },
+            {
+                "subject": "Política Comparada",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema de la Unión Europea",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría de la Administración Pública",
+                "ects": "6"
+            }
+        ],
+        "CUARTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Administrativo: Medios, Responsabilidad y Control",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Civil: Economía del Matrimonio y Sucesiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Procesal: el Proceso Penal",
+                "ects": "6"
+            },
+            {
+                "subject": "Partidos y Sistemas de Partidos",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas Públicas I: Fundamentos",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistema Tributario Español",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Derecho Internacional Privado: Fundamentos y Patrimonio",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Empresa, Valores y Contratación Mercantil",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Instituciones y Relaciones Colectivas de Trabajo",
+                "ects": "6"
+            },
+            {
+                "subject": "Geografía Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Políticas Públicas II: Análisis de Políticas Públicas",
+                "ects": "6"
+            },
+            {
+                "subject": "Sistemas Políticos de Europa",
+                "ects": "6"
+            }
+        ],
+        "QUINTO CURSO": [
+            {
+                "subject": "Primer semestre Derecho Internacional Privado de Personas y Familia",
+                "ects": "3"
+            },
+            {
+                "subject": "Derecho Mercantil: Sociedades",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho del Trabajo: Contrato de Trabajo y Proceso Laboral",
+                "ects": "6"
+            },
+            {
+                "subject": "Sociología Política",
+                "ects": "6"
+            },
+            {
+                "subject": "Teoría y Práctica de las Democracias",
+                "ects": "6"
+            },
+            {
+                "subject": "Asignatura Optativa de Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Asignatura Optativa de Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado de Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Segundo semestre Análisis del Comportamiento Político y Electoral",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho Mercantil: Mercados Financieros y Concursal",
+                "ects": "6"
+            },
+            {
+                "subject": "Asignatura Optativa de Ciencias Políticas",
+                "ects": "6"
+            },
+            {
+                "subject": "Asignatura Optativa de Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Trabajo Fin de Grado de Derecho",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de la Inmigración",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho de las Nuevas Tecnologías",
+                "ects": "6"
+            },
+            {
+                "subject": "Derecho y Religiones",
+                "ects": "6"
+            },
+            {
+                "subject": "Instituciones y Organizaciones Internacionales",
+                "ects": "6"
+            },
+            {
+                "subject": "Servicios Públicos y Sectores Regulados",
+                "ects": "6"
+            },
+            {
+                "subject": "Tutela del Crédito y Procesos Especiales",
+                "ects": "6"
+            },
+            {
+                "subject": "Prácticas Externas de Derecho",
+                "ects": "6"
+            }
+        ]
+    },
+    "conocimientos": "\nFundamentos históricos, filosóficos y constitucionales\ndel ordenamiento jurídico.\n\nInstituciones públicas y privadas de nuestro ordena-\nmiento jurídico y análisis crítico del mismo.\n\nFuentes jurídicas: manejo con apoyo en las TIC y en\nlas bases de datos de legislación y jurisprudencia;\nidentificación y aplicación de las fuentes jurídicas de\nrelevancia y de los principios generales del derecho a\nuna cuestión concreta.\n\nConocimientos y aplicaciones prácticas de las discipli-\nnas que integran nuestro sistema jurídico.\n\nInterrelaciones entre la economía y el derecho. Análisis\nde la realidad social desde la perspectiva del derecho\ncomo sistema regulador de las relaciones sociales.\n\nLectura, interpretación y redacción de textos de natu-\nraleza jurídica.\n\nNegociación, argumentación y mediación.\n\nComprensión de las principales teorías y enfoques\nmetodológicos de la Ciencia Política y de la Adminis-\ntración.\n\nEstructura y funcionamiento de la política comparada,\nde los sistemas políticos y de sus instituciones.\n\nDinámica de los procesos políticos y comportamiento\nde sus actores, especialmente el comportamiento\nciudadano, los valores democráticos y los derechos\nhumanos.\n\nTeorías e ideologías políticas contemporáneas.\n\nEstructura, organización y funcionamiento de las admi-\nnistraciones públicas y marco legal de la actividad que\nrealizan los estados y sus administraciones.\n\nEntorno económico y la dimensión económica del\nsector público.\n\nPolítica internacional, estructura y funcionamiento de\nla Unión Europea.\n\nDiversidad social y cultural de la especie humana a\ntravés de la cultura, parentesco y hábitat, con especial\natención al caso de los pueblos preindustriales.\n\nAnálisis de los principales conceptos y generalizacio-\nnes sobre la sociedad humana y sus procesos.\n\nConceptos y técnicas estadísticas de investigación so-\ncial, así como elementos teóricos de la psicología social,\naplicables a la explicación de los fenómenos políticos.",
+    "salidas_profesionales": "\nAnalista político, especialistas en comunicación polí-\ntica, líderes políticos y expertos en liderazgo político e\nincidencia política, técnicos en campañas electorales,\nconsultores nacionales e internacionales, cooperantes\ninternacionales, gestores de organizaciones políticas\ny sociales, agentes de desarrollo local y de igualdad.\n\nCon la formación complementaria que en su caso\nexija la normativa vigente, se accederá a profesiones\ntales como:\n• Abogado y procurador de los tribunales, agente de\nla propiedad industrial, auditor de cuentas.\n\nDesempeño, previa superación del correspondiente\nconcurso-oposición u oposición, de las siguientes\nprofesiones:\n• Juez, fiscal, abogado del estado, secretario judicial.\n• Letrado de distintos cuerpos de la administración\npública.\n• Notario, registrador de la propiedad y mercantil.\n• Diplomático, funcionario de la Unión Europea y de\notros organismos internacionales.\n• Inspector de hacienda, inspector de trabajo.\n• Técnico superior de la administración pública,\nSecretario Interventor de la Administración Local.\n• Cuerpo jurídico militar, cuerpo militar de inter-\nvención y cuerpos de intendencia de las Fuerzas\nArmadas.\n• Otras profesiones vinculadas a la función pública.\n\nEmpresas nacionales e internacionales del sector\nindustrial, comercial, banca, seguros, cooperación al\ndesarrollo, etc., en distintas áreas: personal y recursos\nhumanos, gestión administrativa, asesoría jurídica,\nasesoría fiscal y tributaria, comercio exterior.\n\nDocencia, tanto en enseñanzas medias como univer-\nsitarias, e investigación."
+}
