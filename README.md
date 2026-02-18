@@ -17,6 +17,7 @@ Este repositorio implementa un asistente agéntico básico basado en LLMs constr
 │   └── workflow.py               # Construcción y ejecución del grafo
 │
 ├── ingestion/
+│   ├── data                      # carpeta con ejemplos de JSONS con asignaturas, díptico de titulación y transcripción de un audio
 │   ├── scrap.py                  # Descarga dípticos de titulaciones de la web de la UCM
 │   ├── extract_pdf_data.py       # Extracción de información de los PDFs
 │   ├── generate_questions.py     # Generación de preguntas a partir de transcripciones de audio
@@ -38,6 +39,8 @@ Este repositorio implementa un asistente agéntico básico basado en LLMs constr
 ## Descripción General
 
 El asistente está construido como un **grafo de LangGraph**, donde cada nodo representa un paso del razonamiento, una llamada al modelo o la ejecución de una herramienta.
+
+Los datos utilizados son extraídos de diversos folletos de grados universitarios de la UCM y una transcripción de un video de youtube de preguntas y respuestas sobre el grado de enfermería.
 
 ---
 
